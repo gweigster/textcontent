@@ -1,2 +1,2 @@
 # textcontent
-Envienta whitepaper for kickICO campaign.
+ENVIENTA text contents for ICO token sale campaign.
