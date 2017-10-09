@@ -1,57 +1,57 @@
-ENVIENTA-The affordable and self-sustaining living space of the future
+﻿ENVIENTA-The affordable and self-sustaining living space of the future
 
 v5.0 (Updated: 2017-09-14)
 
-The purpose of the white list is for you to let us know your intent of investing through subscribing and you will be among the first to be notified about the token sale at the start of the campaign. This way you will not miss the bonuses. That is why you should subscribe to the white list as soon as possible by clicking the link: http://envienta.com/whitelist.php
+The purpose of the white list is for you to let us know your intention of investing (by subscribing). You will be among the first to be notified about the token sale at the start of the campaign. That way you won't miss any bonuses. Which is why you should subscribe to the white list as soon as possible - by clicking the link: http://envienta.com/whitelist.php
 I. WHAT IS ENVIENTA?
 THE CHALLENGE
-Suffering from income inequality, financial problems and without alternatives, growing number of people can’t afford appropriate housing, access to resources and enjoy the benefits of sustainable technological innovations.
+Suffering from income inequality, financial problems and without alternatives, a growing number of people can’t afford appropriate housing, access to resources and thus enjoy the benefits of sustainable technological innovations.
 OUR VISION
-Imagine if people from different fields of expertise work together to open source everything in the household. This way, the technological breakthroughs appear way faster into our daily life, instead of patent-protected R&D environments. We truly believe that the next industrial revolution is about exponential open source technologies, large scale cooperation, redistribution of resources and environmental sustainability at the same time.
+Imagine if people from different fields of expertise worked together to open source everything in the household. This way, technological breakthroughs will appear much faster in our daily life, instead of just in patent-protected R&D environments. We truly believe that the next industrial revolution is about exponential, open source technologies, large-scale cooperation, redistribution of resources and environmental sustainability all at the same time.
 
 ENVIENTA OPEN SOURCE EVERYTHING
-ENVIENTA is a next generation sharing economy model, a DIY maker movement, a community-based solution package and ultimately the sustainable, cost-effective and decentralized socioeconomic framework of the 21st century. ENVIENTA is also a P2P open source platform cooperative, which provides share of know-how, blueprints, products and resources for the members. We're operating as a community controlled initiative with full transparency and as a registered non-profit organization in Spain and Hungary.
+ENVIENTA is a next generation sharing economy model, a DIY maker movement, a community-based solution package and ultimately a sustainable, cost-effective and decentralized socioeconomic framework for the 21st century. ENVIENTA is also a P2P open source platform cooperative, which provides shared know-how, blueprints, products and resources for members. We're operating as a community controlled initiative with full transparency and as a registered non-profit organization in Spain and Hungary.
 
 THEORY OF CHANGE 
 When things we produce and our homes become a mini-IoT infrastructure that connect communities across regions, the economic paradigm changes.
 HOW DO WE GET THERE?
 II. TOKEN RELEASE AND IMPLEMENTATION
-ENVIENTA is a bottom-up initiative that, thanks to the open source approach, can be a source of radical changes. Here we offer a stake by ENVIENTA ICO.
-The implementation is divided into four phases, depending on how many tokens will we be able to sell and how much capital can we collect.
+ENVIENTA is a bottom-up initiative that, thanks to the open source approach, could be a source of radical changes. Here we offer a stake by ENVIENTA ICO.
+The implementation is divided into four phases, depending on how many tokens we will be able to sell and how much capital we can collect.
 MINIMAL CONTRIBUTION
-There is no minimal contribution on token sale but 0.05 ETH is recommended  (The Ethereum network charges a little fee for the transaction, it's called Gas)
+There is no minimum token purchase but 0.05 ETH is recommended (The Ethereum network charges a small fee for the transaction, it's called Gas)
 ENV TOKEN VALUE AND THE KICK ECONOMY
-The official currency of the ENVIENTA project is the ENV token. You can use ENV to pay for services like accommodation, education or the premium access to our platform. Although services can be used for other currencies - such as KickCoin as part of the Kick Economy - in case of ENV we guarantee that tokens will be valued above the ICO sales price. So ENV is definitely worth the ENVIENTA services.
-In addition, with ENV in your hand, we offer purchase discounts at ENVIENTA market and provide voting rights on certain issues, because we want to involve investors in our decision-making processes in the future.
-We create an EIP-228 compliant liquidity pool where we cover at least 10% of our profits (we reinvest the remaining part into the project), so the value of tokens will also rise during the development of the project through the liquidity pool.
-It is important to note that there are real products behind the ENV tokens - project centers, makerspaces, online platform, exponential tech hardware innovations, marketplace, services - see details below. We know that open source technologies have a huge potential for business. The biggest reward however, is the environmental, social and economical benefits all together, as open source hardware, software and models can be freely used by anyone.
+The official currency of the ENVIENTA project is the ENV token. You can use ENV to pay for services such as accommodation, education or for premium access to our platform. Although services can be purchased using other currencies - such as KickCoin as part of the Kick Economy - with ENV, we guarantee that tokens will be valued above the ICO sales price. So ENV is definitely worth the ENVIENTA services.
+In addition, with ENV, we offer purchase discounts in the ENVIENTA market and provide voting rights on certain issues, because we want to involve investors in our decision-making processes in the future.
+We are creating an EIP-228 compliant liquidity pool to cover at least 10% of our profits (we reinvest the remaining part into the project), so the value of tokens will also rise during the development of the project through the liquidity pool.
+It is important to note that there are real products behind the ENV tokens - project centers, makerspaces, online platform, exponential tech hardware innovations, marketplace, services - see details below. We know that open source technologies have a huge potential for business. The biggest reward however, is the environmental, social and economic benefits, as open source hardware, software and models can be freely used by anyone.
 
  
 PHASE 1 - ENVIENTA PROJECT CENTER | 1000 ETH (SOFT CAP)
-Building the first project center on Canary Islands, Spain. Our investment plans are always adjusting to the local weather and environmental conditions, containing the easiest locally available and possibly recyclable materials, considering the available expertise and workforce to reduce the expenses. We're using the latest available technology during the constructions and focusing on the combination of accommodation, food supply and local production with a fully digital E-Manufactory. ENVIENTA ultimately provides cheap and well-designed living for individuals, families and communities as an IoT based alternative lifestyle of the near future.
+Building the first project center on the Canary Islands, Spain. Our investment plans will always adjust, when required, to the local weather and environmental conditions, using the easiest locally available and possibly recyclable materials, making use of the local expertise and workforce to reduce costs. We're using the latest available technology during the construction and focusing on the combination of accommodation, food supply and local production with a fully digital E-Manufactory. ENVIENTA ultimately provides cheap and well-designed living for individuals, families and communities as an IoT based alternative lifestyle of the near future.
 INVESTMENT PLAN:
 
-All parts of the training center (container houses, furniture, aero- and hydroponic garden, electrical systems, software, etc.) are open source, so the blueprints are available to anyone for free of charge or can be purchased in a manufactured form on request. You can also use your tokens with discount when purchasing the components.
+All parts of the training center (container houses, furniture, aero- and hydroponic garden, electrical systems, software, etc.) are open source, so the blueprints are available to anyone free of charge or can be purchased in a manufactured form on request. You can also use your tokens with discount when purchasing components.
 
 
 
 
 
 REVENUE MODEL OF THE PROJECT CENTER
-Cost reductions through open source technological developments, savings received through renewables, sales of locally, jointly produced healthy foods and products, resource sharing and time banking in local and global circular economy, services like accommodation rental, education, local 3D printing and design services, construction consulting and implementation, etc. makes ENVIENTA project center 100% self-sustainable and also a smart investment for our supporters.
+Cost reductions through: open source technological developments, savings received through renewables, sales of locally, jointly produced healthy foods and products, resource sharing and time banking in local and global circular economy. Plus services such as accommodation rental, education, local 3D printing and design, construction consulting and implementation, etc. makes ENVIENTA project center 100% self-sustainable and also a smart investment for our supporters.
 
 BE PART OF A BIG ADVENTURE
-We are inviting you to spend a one week holiday in the Canary Islands with us in our showcase self-sustainable innovation center in exchange of your ENVIENTA tokens.
+We are inviting you to spend a one week holiday in the Canary Islands with us, in our showcase self-sustainable innovation center, in exchange for your ENVIENTA tokens.
 Price of accommodation: 200 ENV = 2 ETH
-It is a limited offer, the exchange of these holiday related tokens will start after the successful ICO campaign.
+This is a limited offer, the exchange of these holiday related tokens will start after the successful ICO campaign.
 
-It will not only inspire you in how to live in a symbiotic relationship with revolutionary technologies, but you can learn much more about a sustainable way of living which benefits the whole of society. You can also become a member of an incredible community of experts in different fields, from all around the world. The technologies which you will interact with will become yours too as you will have access to the blueprints, so you can develop them further with your own ideas. Implementing the decentralized token structure after this initial sale, everybody will have a chance to book a few days, or more, to enjoy what Gran Canaria and the technology has to offer.
+This will not only inspire you how to live in a symbiotic relationship with revolutionary technologies, but you can learn much more about sustainable ways of living, which benefit the whole of society. You can also become a member of an incredible community of experts in different fields, from all around the world. The technologies which you will interact with will become yours too, as you will have access to the blueprints. So you can develop them further adding your own ideas. Implementing the decentralized token structure after this initial sale, everybody will have a chance to book a few days, or more, to enjoy what Gran Canaria and the technology has to offer.
 PHASE 2 - ENVIENTA EDUCATION | 1000 - 2000 ETH
-If we can acquire the capital needed for Phase 2, we can develop further our training program and spread ENVIENTA’s philosophy and know-how in big volume. Some of these courses and MOOCS are free of charge and available online thanks to the commons approach. Educating useful techniques to address local and global challenges, inspiring and empowering citizens, students, cultural workers, entrepreneurs, adult educators, facilitators of change, coaches and communities wanting to develop collaborative and participatory practices to empower social change and steward resources. ENVIENTA is committed to creating positive global impact through the millions of people who benefit from our ongoing programs and activities.
+If we can acquire the capital needed for Phase 2, we will further develop our training program and spread ENVIENTA’s philosophy and know-how much wider. Some of these courses and MOOCS are free of charge and available online thanks to the commons approach. Educating in useful techniques to address local and global challenges, inspiring and empowering citizens, students, cultural workers, entrepreneurs, adult educators, facilitators of change, coaches and communities wanting to develop collaborative and participatory practices to empower social change and steward resources. ENVIENTA is committed to creating positive global impact through the millions of people who will benefit from our ongoing programs and activities.
 INVESTMENT PLAN:
 
-REVENUE MODEL OF THE EDUCATION
-In collaboration with local universities and business partners we establish wide variety of education related services and activities. This also means more business potential for investors, such as:
+EDUCATION SERVICES REVENUE MODEL
+In collaboration with local universities and business partners, we will continue to establish a wide variety of education related services and activities. This also means more business potential for investors. Courses such as:
 Self-sufficiency courses
 Graduate studies program
 Executive programs
@@ -59,7 +59,7 @@ Conferences and ENVIENTA summits
 Internship program
 Research & Development
 BE PART OF A CUTTING EDGE EDUCATION PROGRAM
-We are adding quality programs also to make your time even more valuable what you spend in the facilities in exchange of your ENVIENTA tokens
+We are also adding quality programs giving more value to your time spent in the facilities in exchange for your ENVIENTA tokens
 SELF-SUFFICIENCY COURSES
 Energy management, production & storage
 Permaculture & home gardening
@@ -71,37 +71,38 @@ Nanotechnology course
 
  
 Price of education service: 200 ENV = 2 ETH
-It is a limited offer, the exchange of these education related tokens will start after the successful ICO campaign.
+This is a limited offer, the exchange of these education related tokens will start after the successful ICO campaign.
 PHASE 3 - ENVIENTA PLATFORM | 2000 - 3000 ETH
-The really interesting things can be done in Phase 3. The goal here is to develop further and finalize our software platform. ENVIENTA is the first crowdfunding platform aims to speed up the collaborative open source product development, from ideas to prototypes, sales/distribution throughout their life cycle based on circular economy principles.
+The really interesting part will be in Phase 3. The goal here is to develop further and finalize our software platform. ENVIENTA is the first crowdfunding platform that aims to speed up collaborative open source product development, from ideas to prototypes, sales/distribution based on circular economy principles throughout the product life cycle.
 
-Basically, open source hardware developments are the primary target area, but we also support the development of software and even new social and economic models (e.g. DAOs). Developing the ENVIENTA platform will serve as a kind of startup incubator and as an additional center of other open source hardware projects. The platform will provide collaborative services for the developers for free, will provide legal protection for open source projects and help bring demand and supply together.
+Open source hardware developments are the primary target area, but we also support the development of software and even new social and economic models (e.g. DAOs). Developing the ENVIENTA platform will serve as a kind of startup incubator and as an additional center for other open source hardware projects. The platform will provide collaborative services for developers for free, it will provide legal protection for open source projects and help bring together supply and demand.
 
 
-REVENUE MODEL OF THE PLATFORM
+PLATFORM REVENUE MODEL 
 The ENVIENTA platform’s ultimate goal is the creation of value and transfer of goods/services through interactions between makers / producers, backers, manufacturers, distributors and consumers and the capture of some part of this created value. In a given interaction, the consumer pays the producer using some form of currency. This currency may be attention, reputation, influence, or some other form of non-monetary currency but it may also be money.
 How does the platform capture some portion of this currency for itself?
-In case of ENVIENTA the transfer of money occurs internal to the platform, so we take a fine transaction cut in the following cases:
+In case of ENVIENTA the transfer of money occurs on the platform, so we take a small transaction cut in the following cases:
 Crowdfunding campaigns
 Consumers access to products in marketplace
-Producers, consumers and distributors for premium tools and services
+Producers, consumers and distributors of premium tools and services
 Businesses for access to high-quality, curated producers / makers
-Manufacturers and distributors to get licenses
+Manufacturers and distributors to gain licenses
 Advertising campaigns
 BE PART OF THE OPEN SOURCE REVOLUTION
-If you’re passionate about environmental, social and economic issues and solutions, envienta.org is your place to achieve profound changes through cutting edge technologies. As an ENVIENTA token owner you’ll have the opportunity to invest in even more exciting and disruptive open source technologies and projects, that are serving the criterias of the UN’s Sustainable Development Goals in the long term. Follow the ongoing development and subscribe on envienta.org
+If you’re passionate about environmental, social and economic issues and solutions, envienta.org is the place to achieve profound changes through cutting edge technologies. As an ENVIENTA token owner, you’ll have an opportunity to invest in even more exciting and disruptive open source technologies and projects that are serving the criteria of the UN’s Sustainable Development Goals. Follow the ongoing development and subscribe on envienta.org
 PHASE 4 - PRODUCTION AND DISTRIBUTION | 3000 - 5000 ETH (HARD CAP)
-Phase 4 is the implementation of decentralized production and distribution. This is the last step where ideas from the platform can become real, tangible products and we have to provide financial, marketing and manufacturing related analysis continuously to the open source hardware.
-As ENVIENTA will never have a huge development team, we certainly do not want to put production lines into service. Instead, we will create a kind of franchise system that will make it possible for anyone to become a manufacturer of ENVIENTA products, giving an endlessly scalable manufacturing capacity to all. To apply, several conditions must be met by that manufacturer. These will include support for open source projects as well as the support for ENVIENTA also. So you can build a lean business model around open source hardware.
+Phase 4 is the implementation of decentralized production and distribution. This is the last step, where ideas from the platform can become real, tangible products and we have to provide financial, marketing and manufacturing related analysis continuously to the open source hardware.
+ENVIENTA will not have a huge development team, so we don't want to create production lines. Instead, we will create a kind of franchise system that will make it possible for anyone to become a manufacturer of ENVIENTA products, giving an endlessly scalable manufacturing capacity to all. To apply, several conditions must be met by that manufacturer. These will include support for open source projects as well as the support for ENVIENTA. So you can build a lean business model around open source hardware.
 
-Open source hardware is a relatively new area and, due to the free access and decentralized markets, we are expecting exponential growth here. You can recognize the same trends when you check the open source software market (Android, Linux, Ethereum, etc.). Exactly the same things will happen in open source hardware. Although the source code is free and costs nothing, there are plenty of affiliate services that generate profits.
+Open source hardware is a relatively new area and, due to the free access and decentralized markets, we are expecting exponential growth here. You can see the same trends in the open source software market (Android, Linux, Ethereum, etc.). Exactly the same will happen to open source hardware. Although the source code is free and costs nothing, there are plenty of affiliate services that generate profits.
 In the case of open source hardware, this is more relevant since we are talking about a physical product. In the case of ENVIENTA, these related services (product support, the supply of assets, selling complete systems, etc.) will be the source of the revenue and the profit. ENVIENTA will offer services and products to an exponentially growing new market and the generated profit will be realized in the value of tokens.
+
 INVESTMENT PLAN:
 
-REVENUE MODEL OF PRODUCTION AND DISTRIBUTION
-To establish such production sites will be supported by ENVIENTA as an investor. In these makerspaces, ENVIENTA will be a business partner, and this will produce long-term profits. In addition, in both Phase 3 and Phase 4, we allocated a budget for supporting software and hardware projects and related research. A part of the profit from these investments will be reinvested by our “company” (double quote because of the decentralized structure), and another part of it will be invested into a token repurchase fund. According to our plans, tokens issued during the ICO will be able to be repurchased from our investors at multiple prices.
+PRODUCTION AND DISTRIBUTION REVENUE MODEL
+The establishment of production sites mentioned above will be supported by ENVIENTA as an investor. In these makerspaces, ENVIENTA will be a business partner, and this will produce long-term profits. In addition, in both Phase 3 and Phase 4, we have allocated a budget for supporting software and hardware projects and related research. A part of the profit from these investments will be reinvested by our “company” (double quote because of the decentralized structure), and another part of it will be invested in a token repurchase fund. According to our plans, tokens issued during the ICO will be able to be repurchased from our investors at multiple prices.
 BE PART OF A BUSINESS THAT COMES WITH POSITIVE ENVIRONMENTAL IMPACT AND SOCIAL RETURN ON INVESTMENT
-It is clear from the beginning that ENVIENTA has been put its trust into the open community model. The gates are open to everyone and encourage joint work by exploiting the huge business potential in the model. Although we have a well-defined plan and strategy to accomplish our goals, we would like to involve our target audience and especially our investors at any point. We want investors to be involved in our decisions in proportion to their tokens in order to co-manage ENVIENTA.
+It is clear from the beginning that ENVIENTA has been putting its trust into the open community model. The gates are open to everyone and we encourage collaboration by exploiting the huge business potential in the model. Although we have a well-defined plan and strategy to accomplish our goals, we would like to involve our target audience and especially our investors. We want investors to be involved in our decisions in proportion to their tokens in order to co-manage ENVIENTA.
 III. TOKEN DISTRIBUTION AND SUMMARY
 Project name: ENVIENTA
 Token symbol: ENV
@@ -116,7 +117,7 @@ Conversion rate: 1 ETH = 100 ENV
 
 Bonus structure:
 
-100 ENV (ENVIENTA token) is worth 1 ETH. During the ICO token sale campaign, we highly value our first investors, thus we have defined the following bonus structure. The first milestone is reaching an investment of 1000 ETH (this is what we call a soft cap). This amount is enough to make the first phase of our project come true. In short, if you invest into the ENVIENTA ICO during the first phase of collecting 1000 ETH, for every token bought, the smart contract will credit you 1.3 times more in your ERC20 wallet.
+100 ENV (ENVIENTA token) is worth 1 ETH. During the ICO token sale campaign, we highly value our first investors, thus we have defined the following bonus structure. The first milestone is reaching an investment of 1000 ETH (this is what we call a soft cap). This amount is enough to make the first phase of our project come true. In short, if you invest in the ENVIENTA ICO during the first phase of collecting 1000 ETH, for every token bought, the smart contract will credit you 1.3 times more in your ERC20 wallet.
 Between 1000 and 2000 ETH the multiplier is 1.15, so for every ETH invested, instead of 100 ENV, the system will allocate 115 ENV to you..
 During the campaign, 100 ENV (ENVIENTA token) is worth 1 ETH.
 + 30% bonus for contributors before reaching soft cap (1,000 ETH)
@@ -125,9 +126,9 @@ Fundraising platform: KICKICO.com  (based on Ethereum)
 Timeline: TBD
 Token distribution date: TBD
 IV. CLOSING THOUGHTS
-The basic idea of ENVIENTA can be compared to TESLA: our primary goal is to find solutions to the current problems of mankind, but at the same time we want to build a good business, so we can catalyze the changes with the resources thus obtained. While the mainstream media is full with the demand for radical changes, we are working hard on these changes.
-If you decide that you want to become our investor by attending to our token release, you will be part of our story and you will help us achieve our goals.
-As you can see, we have precise plans for the next couple of years, but we do not even guess what will the future bring to us. We are also looking for the most optimal models for running our organization. Maybe once ENVIENTA becomes a DAO, public limited company, a team organization or an unidentified, unstructured form and mixture of organizations. We don’t know at the moment. Whatever it may be, we believe that our project has great financial potential and the environmental, social and economical benefits are priceless…
+The basic idea of ENVIENTA can be compared to TESLA: our primary goal is to find solutions to the current problems of mankind, but at the same time we want to build a good business, so we can catalyze the changes with the resources thus obtained. While the mainstream media is full of the demand for radical changes, we are working hard on these changes.
+If you decide that you want to become our investor by joining our token release, you will be part of our story and you will help us achieve our goals.
+As you can see, we have precise plans for the next couple of years, but we cannot even guess what the future will bring. We are also looking for the most optimal models for running our organization. Maybe once ENVIENTA becomes a DAO, public limited company, a team organization or an unidentified, unstructured form and mixture of organizations. We don’t know at the moment. Whatever it may be, we believe that our project has great financial potential and the environmental, social and economic benefits are priceless…
 
 THE ENVIENTA TEAM
 
