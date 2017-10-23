@@ -1,9 +1,11 @@
-﻿ENVIENTA-The affordable and self-sustaining living space of the future
+ENVIENTA-The affordable and self-sustaining living space of the future
 
-v5.0 (Updated: 2017-09-14)
+v6.0 (Updated: 2017-10-21)
 
 The purpose of the white list is for you to let us know your intention of investing (by subscribing). You will be among the first to be notified about the token sale at the start of the campaign. That way you won't miss any bonuses. Which is why you should subscribe to the white list as soon as possible - by clicking the link: http://envienta.com/whitelist.php
+
 I. WHAT IS ENVIENTA?
+
 THE CHALLENGE
 Suffering from income inequality, financial problems and without alternatives, a growing number of people can’t afford appropriate housing, access to resources and thus enjoy the benefits of sustainable technological innovations.
 OUR VISION
@@ -118,13 +120,26 @@ Conversion rate: 1 ETH = 100 ENV
 Bonus structure:
 
 100 ENV (ENVIENTA token) is worth 1 ETH. During the ICO token sale campaign, we highly value our first investors, thus we have defined the following bonus structure. The first milestone is reaching an investment of 1000 ETH (this is what we call a soft cap). This amount is enough to make the first phase of our project come true. In short, if you invest in the ENVIENTA ICO during the first phase of collecting 1000 ETH, for every token bought, the smart contract will credit you 1.3 times more in your ERC20 wallet.
+
 Between 1000 and 2000 ETH the multiplier is 1.15, so for every ETH invested, instead of 100 ENV, the system will allocate 115 ENV to you..
+
 During the campaign, 100 ENV (ENVIENTA token) is worth 1 ETH.
 + 30% bonus for contributors before reaching soft cap (1,000 ETH)
 + 15% bonus before reaching 2,000 ETH
+
 Fundraising platform: KICKICO.com  (based on Ethereum)
 Timeline: TBD
 Token distribution date: TBD
+
+What are ENVIENTA tokens (ENV) are for?
+
+You can trade with tokens on crypto-exchange platforms
+You can spend one week holiday at the Canary Islands
+You can buy cutting-edge education programs
+You can pay for services on ENVIENTA platform
+You can purchase products on ENVIENTA platform
+
+
 IV. CLOSING THOUGHTS
 The basic idea of ENVIENTA can be compared to TESLA: our primary goal is to find solutions to the current problems of mankind, but at the same time we want to build a good business, so we can catalyze the changes with the resources thus obtained. While the mainstream media is full of the demand for radical changes, we are working hard on these changes.
 If you decide that you want to become our investor by joining our token release, you will be part of our story and you will help us achieve our goals.
@@ -145,5 +160,6 @@ San Fernando De Maspalomas
 Email: info@envienta.com
 Tel: +34 646 401 417
 Follow us
-WEB | GitHub | Facebook | Twitter | YouTube | Telegram | Medium
+WEB | Facebook | Twitter | YouTube | Telegram | Medium | LinkedIn | GitHub | BitcoinTalk
+
 If you are reading this line that means you are a person with incredible sophistication and attention to detail, so we are especially grateful for your time. We hope you will become involved with our project. If you have anything to ask we are always available and happy to answer all of your questions.
