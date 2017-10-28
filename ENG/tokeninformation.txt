@@ -9,7 +9,7 @@ Used blockchain: Ethereum
 One line catch phrase: The affordable and self-sustaining living space of the future
 
 Logo - transparent, 256 pixels X 256 pixels square PNG image file:
-XXX
+attached
 
 Concept description 3 - 10 sentences:
 THE CHALLENGE
@@ -49,10 +49,10 @@ San Fernando De Maspalomas
 35100 | San Bartolome De Tirajana, Spain
 
 Token sale start date and time(UTC):
-XXX
+TBD
 
 Token sale end date and time (UTC):
-XXX
+TBD
 
 Total supply of token, for crowdsale, team e.t.c.
 1,200,000 ENV
@@ -76,7 +76,7 @@ Slack invitation link: N/A
 Github code repository: https://github.com/EnvientaGit
 
 BitcoinTalk announcement link:
-XXX
+TBD
 
 Reddit link: N/A
 
@@ -96,4 +96,4 @@ Youtube channel link: https://www.youtube.com/channel/UCbS_n6qVwLtyVlwFYMjq4og/v
 
 Links to interviews and articles: https://www.youtube.com/watch?v=frdSp8NGCDI
 
-Smart contract address: XXX
+Smart contract address: TBD
