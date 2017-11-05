@@ -1,171 +1,195 @@
-ENVIENTA – A jövő megengedhető és önfenntartó élettere
-I.	Mi az ENVIENTA?
+A JÖVŐ MINDENKI SZÁMÁRA ELÉRHETŐ, ÖNFENNTARTÓ OTTHONAI
+I. MI AZ ENVIENTA?
 
-A KIHÍVÁS
+KIHÍVÁS
 
-A jövedelmi egyenlőtlenségtől, a pénzügyi problémáktól és az alternatívák hiányától egyre több ember szenved. Ezek az emberek nem engedhetik meg maguknak a megfelelő lakhatást, nincs megfelelő hozzáférésük az erőforrásokhoz, így nem élvezhetik a fenntartható technológiai újítások előnyeit.
+A jövedelmi különbségek és a pénzügyi nehézségek miatt egyre kevesebben engedhetik meg maguknak a megfelelő lakhatást, illetve korlátozott módon férnek hozzá az erőforrásokhoz és a fenntarthatóságot is szolgáló technológiai fejlesztésekhez.
 
-A LÁTOMÁSUNK
+VÍZIÓNK
 
-Képzeld el, hogy különböző szakterületeken dolgozó emberek együtt dolgozzák ki a háztartás minden elemének nyílt forráskódú, fenntarthatóan működő változatát. Így a technológiai áttörések sokkal gyorsabban fognak megjelenni mindennapi életünkben ahelyett, hogy csak a szabadalmaztatott K + F környezetben léteznének. Hisszük, hogy a következő ipari forradalom exponenciálisan növekedő, nyílt forrású technológiákról, nagyszabású együttműködésekről, az erőforrások újraelosztásáról és a környezeti fenntarthatóságról fog szólni.
+Képzeld el, mi lenne, ha a különböző szakmák legjobbjai biztosítanának nyílt hozzáférést neked a legmodernebb eszközökhöz?
+
+Ha bárki részt vehet a fejlesztésekben, a közösség dinamikusan növekszik, a technológiai újítások pedig sokkal gyorsabban jelennek meg az életünkben, ellentétben a szabadalmak által védett kutatás-fejlesztési környezettel.
+
+A jelenleg is zajló ipari forradalomban az exponenciálisan fejlődő technológiák, a nyílt forrású együttműködés, az erőforrások ésszerű elosztása, illetve a globális környezeti fenntarthatóság kiemelt szerepet kap.
+
+03_envienta_technologies
 
 ENVIENTA, AHOL MINDEN NYÍLT FORRÁSKÓDÚ
 
-Az ENVIENTA egy következő generációs megosztáson alapuló gazdasági modell, egy csináld magad mozgalom, egy közösségalapú megoldási csomag, és végül a 21. század fenntartható, költséghatékony és decentralizált társadalmi-gazdasági keretrendszere. Ezenfelül az ENVIENTA egy P2P nyílt forráskódú platformszövetkezet is, amely közös ismereteket, tervrajzokat, termékeket és erőforrásokat biztosít tagjainak. Közösségi irányítású, átlátható módon működő és bejegyzett nonprofit szervezetként működünk Spanyolországban és Magyarországon.
+Az ENVIENTA egy következő generációs sharing economy modell, “csináld magad” mozgalom, illetve közösségi alapú megoldáscsomag. Végső soron a 21. század, fenntartható, költséghatékony és decentralizált társadalmi-gazdasági keretrendszere. Ezen felül az ENVIENTA egy P2P, nyílt forráskódú platform kooperatíva, mely tapasztalatok, erőforrások, valamint önfenntartáshoz szükséges termékek nyílt forrású megosztását teszi lehetővé. Közösségi kézben lévő, átlátható módon működő és bejegyzett non-profit szervezetként működünk Spanyolországban és Magyarországon.
+
+04_iot
 
 A VÁLTOZÁS ELMÉLETE
 
-Amikor az általunk gyártott dolgok és az otthonaink mini-IoT infrastruktúrákká válnak, amelyek összekapcsolják a közösségeket a különböző régiók között, akkor a gazdasági paradigma megváltozik.
+Gandhi a saját eszközeiket és élelmüket előállító, önfenntartó közösségek ideális gazdasági rendszerét vázolta fel 70 évvel ezelőtt. Az igazi forradalom akkor jön, amikor a közösségek, családok és az előállított javak egyaránt kapcsolódnak a kommunikációs-, az energia-, és a logisztikai internethez; létrehozva egy-egy helyi, mini-IoT infrastruktúrát, ami további egységek kapcsolódását teszi lehetővé a régiók közt. Amikor ez megtörténik, új gazdasági paradigmában találjuk magunkat.
 
 HOGYAN JUTUNK EL IDE?
 
-II.	TOKEN KIBOCSÁTÁS ÉS MEGVALÓSÍTÁS
+II. TOKEN KIBOCSÁTÁS ÉS MEGVALÓSÍTÁS
 
-Az ENVIENTA egy alulról jövő kezdeményezés, amely a nyílt forráskódú megközelítésnek köszönhetően radikális változások forrása lehet. Itt az ENVIENTA ICO részesedését kínáljuk.
+Az ENVIENTA egy alulról szerveződő, közösségi kezdeményezés, amely a nyílt forráskódú megközelítésnek köszönhetően radikális változások forrása lehet. Az ENVIENTA Initital Coin Offering – ICO, vagyis elsődleges fizetőeszköz (token) kibocsátáson keresztül kínál részesedést a projekt támogatóinak, befektetőinek – terveinek realizálása érdekében.
 
-A megvalósítás négy fázisra tagolódik, attól függően, hogy hány tokent tudunk eladni és mennyi tőkét gyűjtünk.
+A megvalósítás négy fázison keresztül történik, az értékesítésre kerülő tokenek számától – vagyis az ellenértékként rendelkezésünkre bocsátott tőke nagyságától – függően.
 
 MINIMÁLIS HOZZÁJÁRULÁS
 
-Nincs minimális token vásárlás, de 0,05 ETH ajánlott (Az Ethereum hálózat kis díjat számít fel a tranzakcióért, úgynevezett Gas).
+A token vásárlás során nem állapítunk meg minimális hozzájárulási összeget, azonban 0,05 ETH ajánlott (Az Ethereum hálózat ugyanis működési költségeinek fedezete érdekében tranzakciós díjat számít fel, melynek neve Gas).
 
-ENV TOKEN ÉRTÉK ÉS A KICK GAZDASÁG
+AZ ENV TOKEN ÉRTÉK ÉS A KICK ECONOMY
 
-Az ENVIENTA projekt hivatalos pénzneme az ENV token. Az ENV felhasználásával olyan szolgáltatásokért fizethetsz, mint a szállás, az oktatás vagy prémium hozzáférés a platformunkhoz. Bár a szolgáltatásokat más pénznemek felhasználásával lehet megvásárolni - például a KickCoin a Kick Economy részeként - az ENV-el, garantáljuk, hogy a tokenek az ICO eladási ár felett lesznek értékelve. Így az ENV mindenképpen megéri az ENVIENTA szolgáltatásait.
+Az ENVIENTA projekt hivatalos pénzneme az ENV token. Az ENV felhasználásával olyan szolgáltatásokért fizethetsz, mint a szállás, az oktatás vagy prémium hozzáférés a platformunkhoz. Bár a szolgáltatások más pénznemek felhasználásával is hozzáférhetőek – például KickCoin-al a Kick Economy részeként – az ENV-el garantáljuk, hogy a tokenek az ICO eladási ár felett lesznek értékelve. Az ENV token saját értékét tehát többek közt az ENVIENTA szolgáltatásain keresztül nyeri.
 
-Ezenkívül az ENV-vel az ENVIENTA piacon kedvezményeket kínálunk, valamint szavazati jogot biztosítunk egyes kérdésekben, hisz a jövőben szeretnénk befektetőinket bevonni a döntéshozatali folyamatokba.
+Az ENV tokennel a továbbiakban az ENVIENTA piactéren kedvezményekhez is juthatsz, ezen felül szavazati jogot biztosítunk számodra egyes kérdésekben. A jövőben ugyanis szeretnénk befektetőinket bevonni az ENVIENTA döntéshozatali folyamataiba.
 
-Létrehozunk egy EIP-228 likviditási keretet, amely a nyereségünk legalább 10% -át fedezi (a fennmaradó részt újra befektetjük a projektbe), így a tokenek értéke a projekt fejlesztése során is növekedni fog ezen likviditási kereten keresztül.
+Létrehozunk egy EIP-228 likviditási keretet is, amely a nyereségünk legalább 10% -át fedezi (a fennmaradó részt újra befektetjük a projektbe), így a tokenek értéke a projekt fejlesztése során is növekedni fog ezen likviditási kereten keresztül.
 
-Fontos megjegyezni, hogy az ENV tokenek mögött reális termékek állnak - projekt központok, makerspacek, online platform, exponenciális tech hardver-innovációk, piactér, szolgáltatások stb. - lásd alább a részleteket. A nyílt forráskódú technológiák hatalmas üzleti potenciállal rendelkeznek. A legnagyobb nyereség azonban a környezeti, társadalmi és gazdasági előnyökben rejlik, mivel a nyílt forráskódú hardvereket, szoftvereket és modelleket bárki szabadon felhasználhatja.
+Fontos megjegyezni, hogy az ENV tokenek mögött valódi fedezet áll, infrastrukturális beruházások, innovációs terek, közösségi műhelyek, gyártóegységek, online platformok, exponenciális technológiai hardver-innovációk, termékek, piacterek, szolgáltatások (pl. oktatás) révén – lásd alább a részleteket. Az ENVIENTA által képviselt nyílt forráskódú technológiák hatalmas üzleti potenciállal rendelkeznek. A legnagyobb nyereség azonban a környezeti, társadalmi és gazdasági előnyökben rejlik, mivel a nyílt forráskódú hardvereket, szoftvereket és modelleket bárki szabadon felhasználhatja.
 
- 
-4. FÁZIS - ENVIENTA PROJEKT KÖZPONT 1000 ETH (SOFT CAP)
 
-Az első projektközpont megépítése a spanyol Kanári-szigeteken. Beruházási terveink mindig a helyi időjárási és környezeti feltételekhez igazodnak, a legegyszerűbb helyileg elérhető és esetleg újrahasznosítható anyagok felhasználásával, helyi szakértelem és munkaerő alkalmazásával a költségek csökkentése érdekében. Az építés során a legújabb technológiát alkalmazzuk, és a teljesen digitális E-Manufactory-ra összpontosítjuk a szállás, az élelmiszerellátás és a helyi termelés kombinációját. Az ENVIENTA végül olcsó és jól megtervezett életteret biztosít az egyének, a családok és a közösségek számára a közeljövő alternatív IoT életmódjaként.
+
+1. FÁZIS – ENVIENTA PROJEKT KÖZPONT 1000 ETH (SOFT CAP)
+
+Az első innovációs központ megépítése a Spanyolországhoz tartozó Kanári-szigeteken történik, mely szervezetünk székhelye is egyben. Beruházási terveink mindig a helyi időjárási és környezeti feltételekhez igazodnak, a legegyszerűbb helyileg elérhető és esetleg újrahasznosítható anyagok felhasználásával, helyi szakértelem és munkaerő alkalmazásával a költségek csökkentése érdekében. A teljesen digitális gyártóegységek építése során a legújabb technológiákat alkalmazzuk, a központ pedig a szállás, élelmiszerellátás és a helyi termelés kombinációjául szolgáló prototípus is egyben. Az ENVIENTA olcsó és emberközpontú élettereket biztosít az egyének, a családok és a közösségek számára. A közeljövő alternatív, Internet of Things (IoT) alapú életmódját kínáljuk.
 
 BEFEKTETÉSI TERV:
 
 
-A képzési központ (konténerházak, bútorok, aero- és hidroponikus kertek, elektromos rendszerek, szoftverek stb.) minden része nyílt forrású, így a tervrajzok bárki számára ingyenesen hozzáférhetőek, vagy kérésre előállított formában vásárolhatók meg. A tokenek kedvezményre jogosítanak a vásárláskor.
 
-
+A innovációs és képzési központ elemei (konténerházak, bútorok, aero- és hidroponikus kertek, elektromos rendszerek, szoftverek stb.) nyílt forrásúak, így azok tervrajzai bárki számára ingyenesen hozzáférhetőek, a modulok pedig igény szerint, előre gyártott formában vásárolhatóak meg. A tokenek kedvezményre jogosítanak a vásárláskor.
 A PROJEKT CENTRUM BEVÉTELI MODELLJE
 
-A költségcsökkentés módszerei: 
-	nyílt forráskódú technológiai fejlesztések
-	megújuló energiaforrások által szerzett megtakarítások
-	helyben történő értékesítés
-	közösen előállított egészséges élelmiszerek és termékek
-	az erőforrások megosztása
-	time banking
-+Extra szolgáltatások, mint például a szálláskölcsönzés, az oktatás, a helyi 3D-s nyomtatás és tervezés, az építési tanácsadás és a megvalósítás stb. teszik az ENVIENTA projektközpontot 100% -ban önfenntartóvá és okos beruházássá a befektetőink számára.
+Költségcsökkentésen keresztül:
+– nyílt forráskódú technológiai fejlesztések használata
+– megújuló energiaforrásokból nyert megtakarítások
+– erőforrások megosztása
+– időbank (time banking) használata
 
-LÉGY RÉSZE EGY NAGY KALANDNAK
+Kereskedelmi tevékenységen keresztül
+– helyben előállított egészséges élelmiszerek és használati tárgyak értékesítése
+– 3D nyomtatás és tervezés
+– szállás biztosítása
+– építési tanácsadás és kivitelezés
+– oktatás
 
-Tölts velünk egy egyhetes nyaralást a Kanári-szigeteken az önfenntartó innovációs központunkban, az ENVIENTA tokenekért cserébe.
-Szállás ára: 200 ENV = 2 ETH
+Mindezek együttesen teszik az ENVIENTA projektközpontokat 100% -ban önfenntartóvá és okos beruházássá a befektetőink számára.
+
+LÉGY RÉSZESE A NAGY KALANDNAK
+
+Tölts velünk egy egyhetes nyaralást a Kanári-szigeteken épülő innovációs központban ENVIENTA tokenekért cserébe.
+A szállás ára: 200 ENV = 2 ETH
 
 Ez egy korlátozott ajánlat, a nyaraláshoz kapcsolódó tokenek beváltása a sikeres ICO kampány után kezdődik.
 
-Ez nem csak arra ösztönöz, hogy szimbiotikus kapcsolatban éljünk a forradalmi technológiákkal, de sokkal többet tudhatunk meg a fenntartható életmódról, ami az egész társadalom javát szolgálja. Te is tagja lehetsz egy hihetetlen szakértői közösségnek különböző területeken, a világ minden tájáról. Azok a technológiák, amelyekkel kapcsolatba kerülsz, a tiéddé is válnak, mivel szabad hozzáférést kapsz a tervrajzokhoz, így továbbfejlesztheted őket, és hozzáadhatod saját ötleteidet. A kezdeti értékesítés után a decentralizált tokenszerkezet bevezetésével mindenki számára megnyílik a lehetőség, hogy foglaljon magának néhány napot, vagy akár többet Gran Canarián, és élvezze a technológia nyújtotta lehetőségeket.
+Az itt eltöltött idő nem csak arra lehet ösztönzés, hogy szimbiotikus kapcsolatba kerüljünk a természettel és a forradalmi technológiákkal, de egyúttal többet tudhatunk meg a fenntartható életmódról, ami az egész társadalom javát szolgálja.
 
-2. FÁZIS - ENVIENTA OKTATÁS 1000-2000 ETH
+Te is tagja lehetsz a világ minden tájáról érkező aktív szakértői közösségnek. Szabad hozzáférést kapsz a tervrajzokhoz, továbbfejlesztheted őket és hozzáadhatod saját ötleteidet. A kezdeti token értékesítést követően pedig lehetőséged lesz több napot is velünk tölteni Gran Canaria szigetén és élvezni a fejlett technológia nyújtotta lehetőségeket.
 
-Ha meg tudjuk szerezni a 2. fázishoz szükséges tőkét, tovább fogjuk fejleszteni képzési programunkat, és terjeszteni fogjuk az ENVIENTA filozófiáját és tudását. Néhány ilyen kurzus és MOOC (Massive open online course) ingyenesen elérhető online a közösségi megközelítésnek köszönhetően. Olyan oktatást szeretnénk nyújtani, mely a helyi és globális kihívások kezelésére szolgáló hasznos technikákkal ismerteti meg a városlakókat, diákokat, tanárokat, változás-elősegítőket, stb., ezáltal támogatja a társadalmi változásokat és az erőforrás fejlesztést célzó együttműködéseket. Az ENVIENTA elkötelezett amellett, hogy pozitív globális hatásokat teremtsen azon emberek milliói révén, akiknek hasznára válnak a folyamatban lévő programjaink és tevékenységeink.
+2. FÁZIS – ENVIENTA OKTATÁS 1000-2000 ETH
+
+A 2. fázishoz szükséges tőkével továbbfejleszthetjük képzési programunkat, az ENVIENTA filozófiájába illeszkedő ismeretanyaggal. Néhány ilyen tanfolyam és MOOC (Massive open online course) természetesen ingyenesen elérhető lesz az interneten, hiszen olyan oktatási keretrendszeren dolgozunk, mely a helyi és globális kihívások kezelésére szolgáló hasznos technikákkal ismerteti meg a városlakókat, közösségeiket, diákokat, tanárokat, ezáltal támogatja a társadalmi változásokat és az erőforrásokhoz és termelő eszközökhöz való szélesebb körű hozzáférést. Az ENVIENTA globális hatást kíván elérni azon emberek millióin keresztül, akik oktatási célú programjainkkal és tevékenységeinkkel kapcsolatba kerülnek.
 
 BEFEKTETÉSI TERV:
 
 OKTATÁSI SZOLGÁLTATÁSOK ÉS BEVÉTELI MODELLJÜK
 
-A helyi egyetemekkel és üzleti partnerekkel együttműködve folytatjuk az oktatáshoz kapcsolódó tevékenységek és szolgáltatások létrehozását. Ez még több befektetői potenciált jelent. 
-Tanfolyamok, mint például:
-	Önellátási kurzusok
-	Posztgraduális tanulmányi program
-	Vezetői képzések
-	Konferenciák és ENVIENTA csúcstalálkozók
-	Gyakornoki program
-	Kutatás és Fejlesztés
+A helyi egyetemekkel és üzleti partnerekkel együttműködve olyan oktatási program létrehozása a cél, mely befektetőink számára is nagy potenciált jelent.
 
-LÉGY RÉSZE EGY ÉLVONALBELI OKTATÁSNAK
+– Önellátás megteremtését célzó kurzusok
+– Posztgraduális képzések
+– Vezetői képzések
+– Konferenciák és ENVIENTA csúcstalálkozók
+– Gyakornoki program
+– Kutatás és fejlesztés
 
-Hogy még értékesebbé tegyük a nálunk eltöltött időd, magas színvonalú kurzusokat tartunk az ENVIENTA tokenekért cserébe a következő témákban:
+VEGYÉL RÉSZT ÉLVONALBELI OKTATÁSI PROGRAMUNKBAN
 
-	Energia menedzsment, termelés és tárolás
-	Permakultúra és otthoni kertészet
-	3D modellezés és nyomtatás
-	Intelligens otthon technológia
-	Robotika
-	Szenzor technológiák interaktív környezetekhez
-	Nanotechnológia tanfolyam
+Hogy még értékesebbé tegyük az innovációs központban eltöltött időd, ENV tokenekért cserébe a következő programokkal várunk:
 
-A képzési szolgáltatás ára: 200 ENV=2 ETH
+– Energia menedzsment, termelés és tárolás
+– Permakultúra és otthoni kertészet
+– 3D modellezés és nyomtatás
+– Intelligens otthon kialakítása
+– Robotika
+– Szenzor technológiák interaktív környezetekhez
+– Nanotechnológia tanfolyam
+
+A képzési szolgáltatás ára: 200 ENV = 2 ETH
 Ez egy korlátozott ajánlat, a képzésekhez kapcsolódó tokenek beváltása a sikeres ICO kampány után kezdődik.
 
-3. FÁZIS - ENVIENTA PLATFORM | 2000 - 3000 ETH
+3. FÁZIS – ENVIENTA PLATFORM | 2000 – 3000 ETH
 
-Az igazán érdekes rész a 3. fázisban lesz. A cél az, hogy továbbfejlesszük és véglegesítsük szoftver platformunkat. Az ENVIENTA az első olyan közösségi finanszírozású platform, amelynek célja a nyílt forráskódú termékfejlesztés felgyorsítása az ötlettől a prototípusig, a körkörös gazdaságossági elveken alapuló értékesítés / disztribúció az egész életciklus során.
-Elsődleges célterületünk a nyílt forráskódú hardverfejlesztés, de támogatjuk a szoftverfejlesztést, sőt az új társadalmi és gazdasági modellek (pl. DAO-k) fejlesztését is. Az ENVIENTA platform fejlesztése egyfajta Startup inkubátorként fog szolgálni, valamint egyéb nyílt forráskódú hardverfejlesztő projektek kiegészítő központja lesz. A platform a fejlesztők közötti együttműködés színteréül szolgál, jogi védelmet nyújt a nyílt forráskódú projektek számára, valamint segít kereslet-kínálat egyensúlyt teremteni. 
+Az igazán érdekes innovációk a 3. fázisban válnak elérhetővé, ahol továbbfejlesztjük és véglegesítjük szoftver platformunkat. Az ENVIENTA az első olyan közösségi finanszírozású platform, amelynek célja a nyílt forráskódú, kollaboratív termékfejlesztés felgyorsítása az ötlettől a prototípusig, a körforgásos gazdaság alapelveit beépítve a terméktervezésbe és azok teljes életciklusába.
+
+Elsődleges célterületünk a nyílt forráskódú hardverfejlesztés, de támogatjuk a szoftverfejlesztést, sőt az új társadalmi és gazdasági modellek (pl. DAO-k) fejlesztését is. Az ENVIENTA platform startup inkubátor is egyben. A fejlesztők közötti együttműködés színteréül szolgál, jogi védelmet nyújt a nyílt forráskódú projektek számára, valamint segít megteremteni a termékek keresletének és kínálatának egyensúlyát.
 
 A PLATFORM BEVÉTELI MODELLJE
 
-Az ENVIENTA platform végső célja az értékteremtés, és ezen értékek (termékek és szolgáltatások) átvitele a gyártók, forgalmazók, támogatók és a fogyasztók közötti kapcsolat megteremtésével, a megteremtett értékek egy részének felhasználásával. Egy adott együttműködés során a vásárló valamilyen típusú valutával fizet a szolgáltatónak, ez a valuta lehet non-monetáris (figyelem, hírnév, befolyás, stb.), vagy monetáris (pénz). 
+Az ENVIENTA platform elsődleges célja az értékteremtés, mely a platform alkotói, a projektek támogatói, a gyártók és forgalmazók, valamint a fogyasztók közötti interakciók létesítése révén jön létre. Az interakciók során a támogatók, vagy leendő vásárlók valamilyen típusú valutával fizetnek a projektgazdáknak, ez a valuta pedig lehet non-monetáris (figyelem, megosztás, szívesség, stb.), vagy monetáris (pénz).
 
-Hogyan veszi fel a platform ezen valuták egy részét saját felhasználásra?
+A platform közbeiktatásával létrehozott új termékek és szolgáltatások kereskedelmi forgalmának egy része biztosítja a platform hosszú távú fenntartási és fejlesztési költségeit. Mivel az ENVIENTA esetében a pénzügyi forgalom teljes egészében a platformon belül zajlik, a tranzakciós költség az alábbi esetekben jelenik meg:
 
-Az ENVIENTA esetében a pénz átutalása a platformon történik, ezért a következő esetekben kisebb összegeket számolunk fel a tranzakcióért:
-•	Közösségi finanszírozási kampányok
-•	Fogyasztói hozzáférés a termékekhez a piactéren
-•	Prémium termékek és szolgáltatások gyártóinak, fogyasztóinak és forgalmazóinak
-•	Vállalkozói hozzáférés a kiváló minőségű gyártókhoz / termelőkhöz
-•	Gyártók és a forgalmazók licencszerzésre
-•	Reklámkampányok
-LÉGY RÉSZE A NYÍLT FORRÁSÚ REVOLÚCIÓNAK
-Ha érdekelnek a környezetvédelmi, társadalmi és gazdasági problémák valamint a megoldási lehetőségeik, az envienta.org az a hely, ahol a legmodernebb technológiák révén mélyreható változásokat lehet elérni. Mint ENVIENTA token-tulajdonos, lehetőséged lesz arra, hogy még izgalmasabb nyílt forráskódú technológiákba és projektekbe fektess be, amelyek az ENSZ Fenntartható Fejlődési Céljait szolgálják. Kövesd a folyamatban lévő fejlesztéseket, és iratkozz fel az envienta.org-ra!
+– Közösségi finanszírozási kampányok során
+– Az online piactéren elérhető termékek és szolgáltatások áraiba beépülve
+– Gyártóknak, forgalmazóknak és vásárlóknak nyújtott prémium szolgáltatásokban
+– Külső cégek számára hozzáférést biztosítva a legtehetségesebb szakemberekhez, illetve a kiváló minőségű gyártókhoz / termelőkhöz
+– Gyártóknak és a forgalmazóknak szánt nyílt forrású termékek licencdíjaiba épülve
+– Reklámkampányok során
+
+LÉGY RÉSZESE AZ OPEN SOURCE FORRADALOMNAK
+Ha érdekelnek a környezeti, társadalmi és gazdasági folyamatok, ezek összefüggései és a problémák kezelésére kínált megoldási lehetőségek, az envienta.org platform egy lehetséges alternatívaként, a legmodernebb technológiák alkalmazásával képes elérni mélyreható változásokat.
+
+Mint ENVIENTA token tulajdonos, lehetőséged nyílik arra, hogy még izgalmasabb nyílt forráskódú technológiákba és projektekbe fektess be, melyek hosszú távon a körforgásos gazdaság megteremtését, illetve az ENSZ Fenntartható Fejlődési Céljait is szolgálják. Kövesd a folyamatban lévő fejlesztéseket, és iratkozz fel hírlevelünkre a http://envienta.org oldalon.
+
 4. FÁZIS – GYÁRTÁS ÉS FORGALMAZÁS | 3000-5000 ETH (HARD CAP)
-A 4. fázis a decentralizált gyártás és forgalmazás megvalósítása. Ez az utolsó lépés, ahol a platformból származó elképzelések valódi, kézzelfogható termékekké válnak, és ahol folyamatosan pénzügyi, marketing és gyártási elemzést kell nyújtanunk a nyílt forráskódú hardver számára.
-Az ENVIENTÁNAK nem lesz hatalmas fejlesztőcsapata, így nem akarunk gyártósorokat létrehozni. Ehelyett létrehozunk egy olyan franchise rendszert, amely lehetővé teszi, hogy bárki az ENVIENTA termékek gyártójává váljon, ehhez végtelenül méretezhető gyártási kapacitást biztosítunk mindenkinek. Az alkalmazáshoz több feltételnek meg kell felelni, melyek magukba foglalják a nyílt forráskódú projektek támogatását, valamint az ENVIENTA támogatását. Tehát egy nyílt forráskódú hardver köré építhetsz egy lean üzleti modellt.
-A nyílt forráskódú hardver egy viszonylag új dolog, a szabad hozzáférés valamint a decentralizált piacok miatt exponenciális növekedést várunk ezen a területen. A nyílt forráskódú szoftverek piacán (Android, Linux, Ethereum stb.) ezeket a trendeket láthatjuk, és pontosan ugyanez fog történni a hardverek esetében is. Bár a forráskód ingyenes és nem kerül semmibe, rengeteg kapcsolódó szolgáltatás nyereséget termel.
-A nyílt forráskódú hardverek esetében ez még relevánsabb, mivel fizikai termékekről beszélünk. Az ENVIENTA esetében ezek a kapcsolódó szolgáltatások (terméktámogatás, eszközök értékesítése, komplett rendszerek értékesítése stb.) lesznek a bevétel és a nyereség forrásai. Az ENVIENTA szolgáltatásokat és termékeket kínál az exponenciálisan növekvő új piac számára, és az elért nyereség a tokenek értékében testesül meg.
+A 4. fázisban valósulhat meg a decentralizált gyártás és forgalmazás, a platformból származó elképzelések valódi, kézzelfogható megoldásokká válnak a felhasználók otthonaiban. Eközben lehetőségünk van folyamatos pénzügyi és marketing elemzésekre, illetve a gyártói kapacitással és a rendelkezésre álló erőforrásokkal való tervezésre, elősegítve a nyílt forráskódú hardverek kereslet-kínálat viszonyának optimalizálását.
+
+Az ENVIENTA nem rendelkezik hatalmas fejlesztőcsapattal, így gyártósorokat sem kívánunk létrehozni. Ehelyett bárki számára lehetővé tesszük, hogy az ENVIENTA platform termékeinek gyártójává / forgalmazójává váljon, így végtelenül skálázható kapacitást kapunk. A franchise szerű rendszerbe való belépés feltételei közt szerepel a gyártói garancia nyújtása, ezen felül pedig a nyílt forráskódú projektek, illetve az ENVIENTA keretrendszer támogatása. Partnerként a nyílt forráskódú hardverek köré építhetsz egy saját, lean üzleti modellt.
+
+A nyílt forráskódú hardver egy viszonylag új terület, azonban a szabad hozzáférés biztosításától, valamint a decentralizált piaci környezet kialakításától exponenciális növekedést várunk. A nyílt forráskódú szoftverek terén (Android, Linux, Ethereum stb.) a trend mára bizonyítást nyert és pontosan ugyanez fog történni a hardverek esetében is. Bár a forráskód ingyenes és nem kerül szinte semmibe, rengeteg kapcsolódó szolgáltatás termel nyereséget.
+
+Az ENVIENTA esetében a fizikai termékekhez kapcsolódó szolgáltatások (terméktámogatás, eszközök értékesítése, komplett rendszerek értékesítése stb.) a bevétel és a nyereség forrásai. Az exponenciálisan növekvő új piac által biztosított nyereség pedig az ENV tokenek értékében testesül meg.
+
 GYÁRTÁSI ÉS FORGALMAZÁSI BEVÉTELI MODELL
-Az ilyen termelési központok létrehozását az ENVIENTA, mint befektető támogatja. Ezekben a makerspacekben az ENVIENTA üzleti partner lesz, ami hosszú távú nyereséget eredményez. Ezenkívül mind a 3., mind a 4. fázisban költségvetést bocsátottunk rendelkezésre a szoftver- és hardverprojektek, valamint a kapcsolódó kutatások támogatására. Az ilyen befektetésekből származó nyereség egy részét a "cég" (idézőjel a decentralizált struktúra miatt) újra befekteti, egy másik részét egy token visszavásárlási alapba fektetik be. Tervünk szerint az ICO-ban kibocsátott tokenek több áron is visszavásárolhatók lesznek befektetőink számára.
-LÉGY RÉSZE EGY OLYAN ÜZLETNEK, AMELY POZITÍV HATÁSSAL VAN A KÖRNYEZETRE ÉS A TÁRSADALOMRA
-Már a kezdetektől látható, hogy az ENVIENTA bízik a nyílt közösségi modellekben. A kapuk mindenki előtt nyitva állnak, és az együttműködést a modellben rejlő hatalmas üzleti potenciállal ösztönözzük. Bár van egy jól definiált tervünk és stratégiánk a célok elérése érdekében, szeretnénk bevonni a célközönséget és különösen a befektetőket a döntéshozatalba. Azt szeretnénk, hogy a befektetők részt vehessenek döntéseinkben tokeneik mennyiségével súlyozottan az ENVIENTA együttes kezelése érdekében.
-III.	TOKEN ELOSZTÁS ÉS ÖSSZEGZÉS
+A gyártókapacitás növelésében, a közösségi műhelyek és innovációs központok létrehozásában az ENVIENTA, mint befektető is érdekelt. Ezekben a helyi, közösségi vállalkozásokban az ENVIENTA üzleti partnerként jelenik meg, szakmai segítségünkkel pedig hosszú távú nyereség érhető el. Mind a 3., mind a 4. fázis költségvetése tartalmazza a szoftver- és hardver projektek, valamint a kapcsolódó kutatás-fejlesztési tevékenységek támogatását.
+
+A fejlesztésre szánt befektetéseinkből származó nyereség egy részét a “cég” (az idézőjel a decentralizált struktúra miatt indokolt) újra befekteti, míg egy másik részét egy token visszavásárlási alapba áramoltatja. Tervünk szerint az ICO-ban kibocsátott ENV tokeneket magasabb áron leszünk képesek visszavásárolni az azokat később értékesíteni szándékozó befektetőinktől.
+
+LÉGY RÉSZESE POZITÍV KÖRNYEZETI HATÁSOKKAL ÉS TÁRSADALMI HASZONNAL JÁRÓ PROJEKTÜNKNEK
+Az ENVIENTA kezdetektől nyílt, közösségi modellekre épül. A kapuk mindenki előtt nyitva állnak, az együttműködést pedig a projektben rejlő hatalmas üzleti potenciál is ösztönözeti. Bár van egy jól meghatározott tervünk és stratégiánk céljaink megvalósítására, bármely ponton beleszólást engedünk a célközönségünknek és különösen a befektetőinknek ezen stratégia felülvizsgálatába, további részleteinek kidolgozásába. Szeretnénk támogatóinkat tokenjeik arányában bevonni a döntéshozatalba, hogy együtt alakíthassuk az ENVIENTA-t
+
+TOKEN ELOSZTÁS ÉS ÖSSZEGZÉS
 
 Projekt neve: ENVIENTA
 Token szimbólum: ENV
 Website: envienta.com
 Whitepaper: http://envienta.com/downloads/envienta_alternative_lifestyle.pdf
 Soft Cap: 1 000 ETH
-Hard Cap: 5 000 ETH (az ICO munkatársak a tokenek 47,4%-át birtokolják a hard cap elérésétől)
+Hard Cap: 5 000 ETH (az ICO-ban részt vevő befektetők a tokenek 47,4%-át birtokolják a hard cap elérésekor)
 Maximum ICO piaci rész: 12 000 ETH a hard cap elérésétől
-Átváltás: 1 ETH=100 ENV
+Átváltás: 1 ETH = 100 ENV
 
 Bónusz rendszer:
-100 ENV ér 1 ETH-t.  Az ICO token értékesítési kampánya során nagyra értékeljük első befektetőinket, így a következő bónuszstruktúrát találtuk ki. Az első mérföldkövet 1000 ETH beruházása után érjük el (ez az, amit soft capnek nevezünk). Ez az összeg elég ahhoz, hogy megvalósuljon projektünk első fázisa. Röviden, ha az első fázisában, tehát az 1000 ETH összegyűjtése során fektetsz be az ENVIENTA ICO-ba, akkor minden vásárolt token esetén az okosszerződés 1,3-szorosát írja jóvá a tokeneidnek az ERC20 számládon.
+Az ICO token értékesítési kampány során nagyra értékeljük az első befektetőinket, ezért az alábbi bónusz struktúrát határoztuk meg. Az első mérföldkő az 1000 ETH befektetés elérése (ezt angolul soft cap-nek hívjuk). Ez az összeg elég a projektünk 1-es fázisának megvalósulásához. Röviden, ha az első 1000 ETH összegyűjtésének szakaszában fektetsz be az ENVIENTA ICO-ba, akkor minden egyes megvásárolt token helyett 1,3x annyit ír jóvá az okosszerződés az ERC20-as walletedben.
+1000 és 2000 ETH között ez a szorzó 1,15x-os tehát pl. 1 ETH befektetésért 100 ENV helyett 115 ENV-t utal ki neked a rendszer.
+A kampány idején 100 ENV (ENVIENTA token) értéke 1 ETH-nak felel majd meg.
 
-1000 és 2000 ETH között a multiplikátor 1,15, így minden befektetett 100 ENV helyett a rendszer 115 ENV-t ír jóvá. 
-
-A kampány során 100 ENV (ENVIENTA token) ér 1 ETH-t.
-+ 30% -os bónusz a befektetőknek, a soft cap eléréséig (1000 ETH)
-+ 15% -os bónusz, mielőtt elérné a 2000 ETH értéket
-
-Adománygyűjtő platform: KICKICO.com (Ethereum alapján)
-Idővonal: meghatározás alatt
-Token elosztás dátuma: meghatározás alatt
+Crowdfunding platform: KICKICO.com (Ethereum alapú)
+Idővonal: kidolgozás alatt
+Token vásárlás kezdő dátuma: nem meghatározott
 
 MIRE JÓK AZ ENVIENTA TOKENEK (ENV-K)?
 
-1.	A tokenekkel kereskedhetsz a kriptovaluta-váltó platformokon
-2.	Egyhetes nyaralást tölthetsz el a Kanári- szigeteken
-3.	Élvonalbeli oktatásban részesülhetsz a tokeneidért
-4.	Fizethetsz vele termékekért és szolgáltatásokért az ENVIENTA platformon
+– A tokenekkel kereskedhetsz a kriptovaluta-váltó platformokon
+– Egyhetes nyaralást tölthetsz el a Kanári-szigeteken
+– Élvonalbeli oktatásban részesülhetsz
+– Fizethetsz vele termékekért és szolgáltatásokért az ENVIENTA platformon
 
-IV.	ZÁRÓ GONDOLATOK
+ZÁRÓ GONDOLATOK
 
-Az ENVIENTA alapgondolatát összehasonlíthatjuk a TESLA-val: elsődleges célunk, hogy megoldást találjunk az emberiség jelenlegi problémáira, ugyanakkor jó üzletet akarunk csinálni, így a változásokat az így nyert erőforrásokkal katalizálhatjuk. Míg a hétköznapi média tele van radikális változások iránti igényekkel, addig mi keményen dolgozunk ezeken a változásokon.
+Az ENVIENTA alapgondolata akár a TESLA-éhoz is hasonlítható: elsődleges célunk, hogy megoldást keressünk az emberiség komoly problémáira, de ugyanakkor erre egy jó üzletet is fel kívánunk építeni, hogy az így nyert erőforrásokkal tovább katalizálhassuk a változásokat. Míg a szakmai sajtó azzal van tele, hogy a világ radikális változások előtt áll, mi már gőzerővel dolgozunk ezeken a változásokon.
 
-Ha úgy döntesz, hogy a befektetőként csatlakozol a token értékesítéshez, akkor része leszel történetünknek, és segíteni fogsz elérni a céljainkat.
+Ha befektetőként úgy döntesz, hogy az ICO token kibocsátáson keresztül csatlakozol projektünkhöz, segíthetsz elérni céljainkat.
 
-Amint látható, pontos terveink vannak a következő néhány évre, de még megbecsülni sem tudjuk, hogy mit hoz a jövő. Mi is keressük a legoptimálisabb modelleket a szervezetünk működtetéséhez. Talán egyszer az ENVIENTA egy DAO (decentralizált autonóm szervezet), egy korlátolt felelősségű társaság, egy teal szervezet vagy egy egyelőre ismeretlen struktúrájú szervezet lesz. Jelenleg nem tudjuk. Bármi is legyen, úgy véljük, hogy projektünk nagy pénzügyi potenciállal rendelkezik, és a környezeti, társadalmi és gazdasági előnyök felbecsülhetetlenek.
+Mint látható, pontos terveink vannak az elkövetkezendő pár évre, de hogy mit hoz a távoli jövő, még mi sem sejtjük. Mi is keressük a legoptimálisabb modelleket szervezetünk működtetésére. Talán egyszer az ENVIENTA is DAO formájában – decentralizált autonóm szervezetként – fog működni, közösségi részvénytársaságként, teal szervezetként, vagy valamely ma még nem ismert, nem definiált szerveződési formában. Ez még a jövő zenéje. Bárhogy is legyen, úgy gondoljuk, hogy projektünkben nagy a pénzügyi potenciál, a globális környezetre, társadalomra és gazdaságra gyakorolt hatása pedig felbecsülhetetlen.
