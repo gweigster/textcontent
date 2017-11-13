@@ -76,7 +76,7 @@ Slack invitation link: N/A
 Github code repository: https://github.com/EnvientaGit
 
 BitcoinTalk announcement link:
-TBD
+https://bitcointalk.org/index.php?topic=2316521.msg
 
 Reddit link: N/A
 
