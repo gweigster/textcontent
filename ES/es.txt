@@ -1,85 +1,165 @@
-ENVIENTA-El espacio de convivencia asequible y autosostenido delfuturo
+ENVIENTA-El espacio de convivencia autosustentable y asequible del futuro
 
-Estamos construyendo la nueva forma de vida con tecnologías innovadoras de código abierto en su corazón. Compartimos el conocimiento de todo lo que te rodea en un hogar: - Jardín inteligente - Hogar inteligente - Renovables - Robótica - Impresión 3D
+v6.0 (Actualizado: 2017-10-21)
 
-En primer lugar...
+El proposito de la lista blanca es para saber de tu interes en invertir (suscribiéndote). Estarás entre los primeros en ser notificado de la venta de tókens al inicio de la campaña, para que así no te pierdas de ningún bono. Por eso te invitamos a que te suscribas a la lista blanca lo antes posible, a través del siguiente enlace: http://envienta.com/whitelist.php
 
-ENVIENTA no es sólo una buena visión o una gran idea. Estamos trabajando en este proyecto durante casi 2 años. Por favor vea nuestras comunidades y realizaciones en nuestros grupos sociales. Si tiene algo que preguntar directamente estaremos siempre disponibles y felices en responder a todas sus dudas. Usted puede encontrarme personalmente en Twitter | Telegram o cualquiera de nosotros. (ver el equipo a continuación). // Gabriel Varaljay
+I. ¿QUÉ ES ENVIENTA?
 
-¿Qué es ENVIENTA?
+EL RETO
+Debido a las diferencias de ingresos, a los problemas financieros y a la falta de alternativas, un gran número de personas se ven privados de costearse un hogar apropiado, así como de acceder a recursos y disfrutar los beneficios de las innovaciones tecnológicas sustanciables.
+NUESTRA VISIÓN
+Imagina que un grupo de personas de distintos campos de experticia trabajaran juntos para hacer todo de código abierto en el hogar. De esta forma, los avances tecnológicos aparecerían mucho más rápido en el día a día, en vez de sólo en ambientes de I+D protegidos por patentes. Tenemos una fuerte creencia en que la próxima revolución industrial será sobre tecnologías de código abierto exponenciales, cooperación a gran escala, redistribución de recursos y sustentabilidad ambiental, todo al mismo tiempo.
 
-fd837e82d02baac.jpeg
+ENVIENTA - EL TODO DE CÓDIGO ABIERTO
+ENVIENTA es el concepto que engloba a la siguiente generación del modelo de economía compartida, un movimiento que impulsa el bricolaje, un paquete de soluciones basadas en la comunidad, y ultimadamente, un marco socioeconómico descentralizado, rentable, y sostenible para el siglo XXI. ENVIENTA es, también, una plataforma cooperativa P2P de codigo abierto, que proporciona conocimientos compartidos, planos, productos y recursos para sus miembros. Funcionamos como una iniciativa controlada por la comunidad, con total transparencia, y registrados como una organización sin fines de lucro, en España y Hungría.
 
-ENVIENTA es la siguiente generación del modelo económico de compartir., movimiento de creadores de bricolaje y un paquete de soluciones basada en la comunidad para el siglo XXI, que proporciona el intercambio de saber hacer, cianotipos, productos y recursos para los miembros. Es una plataforma de código abierto P2P, cooperativa, sostenible, rentable, descentralizado y de literalmente escalado marco socioeconómico.
+TEORÍA DEL CAMBIO
+Cuando las cosas que producimos en casa se convierten en una infraestructura mini-IoT que conecta a las comunidades a lo largo de las regiones, el paradigma económico cambia.
+¿CÓMO LLEGAMOS HASTA AHÍ?
+II. LANZAMIENTO DEL TÓKEN E IMPLEMENTACIÓN
+ENVIENTA es una iniciativa en crecimiento que, gracias a su naturaleza de código abierto, puede convertirse en una fuente de cambios radicales. Ofrecemos acciones en la empresa a través de nuestra ICO.
+La implementación está dividida en cuatro fases, dependiendo de cuántos tókens podamos vender y cuánto capital podamos recoger.
+MONTO MÍNIMO
+No tenemos establecido un mínimo para la compra de tókens, pero recomendamos que sea a partir de 0.05 ETH (La red Ethereum cobra una pequeña comisión por la transacción, denominada Gas).
+VALOR DEL TÓKEN ENV Y LA ECONOMÍA KICK
+La moneda oficial del proyecto ENVIENTA es el tóken ENV. Puedes usar éste para pagar por servicios como alojamiento, educación, o acceso premium a nuestra plataforma. Aunque estos servicios pueden ser comprados con otras monedas, como KickCoin, que pertenece a la Economía Kick, con ENV te garantizamos que los tókens tendrán un valor superior al precio de venta de la ICO. De ahí que el ENV valga la pena para los servicios de ENVIENTA.
+Adicionalmente, con ENV, te ofrecemos descuentos en el mercado ENVIENTA, aunado a derechos de voto en ciertos asuntos, ya que queremos involucrar a los inversionistas en las tomas de decisiones que tengan lugar en el futuro.
+Estamos creando un fondo de liquidez compatible con EIP-228 para cubrir al menos el 10% de nuestras ganancias (reinvertimos el resto en el proyecto), de modo que el valor de los tókens subirá durante el desarrollo del mismo, a través del mencionado fondo.
+Es importante saber que existen productos reales que respaldan estos tókens - centros de proyecto, makerspaces, plataforma online, innovaciones exponenciales en tecnología de hardware, mercado, servicioes - detalles de ésto más abajo. Sabemos que las tecnologías de código abierto tienen un gran potencial para los negocioes. Sin embargo, el premio mayor es el conjunto de beneficios económicos, sociales y ambientales, dado que los modelos, software y hardware de código abierto peuden ser usados libremente por cualquiera.
 
-ENVIENTA es una iniciativa controlada por la comunidad con la total transparencia. Como parte de nuestro propósito, estamos operando como una asociación registrada sin fines de lucro.
+ 
+FASE 1 - CENTRO DE PROYECTO ENVIENTA | 1000 ETH (LÍMITE MÍNIMO)
+En primer lugar, construir el primer centro de proyecto en las Islas Canarias, España. Nuestros planes de inversión se ajustarán, según la necesidad, a las condiciones climáticas y ambientales locales, usando los materiales reciclables más fáciles de encontrar, haciendo uso de la experiencia y mano de obra local para reducir costos. Utilizaremos la más avanzada tecnología disponible durante la construcción, y enfocándonos en la combinación de alojamiento, abastecimiento y producción local, con una E-Manufactura completamente digital. Al final de cuentas, ENVIENTA ofrece una vida económica y bien diseñada para personas, familias y comunidades, como un estilo de vida alternativo basado en el Internet de las Cosas (IoT) del futuro cercano.
+PLAN DE INVERSIÓN:
 
-721b460aab2b468.jpeg
-Vamos a construir juntos. ENVIENTA Open Source Ecology ofrece una vida barata y bien diseñada para individuos, familias y comunidades. Se trata de un estilo de vida alternativo del futuro cercano. ¿Por qué pagar las facturas de los hogares si hay tecnologías existentes para reducir sus dependencias? La energía renovable es gratuita. La vida autosostenible requiere soluciones alternativas de jardinería basadas en el uso efectivo del agua sin la suciedad y los conocimientos agrícolas. Los elementos interiores diseñados a medida fabricados con materiales reciclados impresos en 3D pueden reducir los residuos industriales. ENVIENTA es un sistema modular, sus planes pueden ser implementados dentro de las ciudades y en el campo también.
+Todas las partes del centro de entrenamiento (Casas Contenedores, muebles, jardines aéreos e hidrofónicos, sistemas eléctricos, software, etc.) son de código abierto, por lo que los planos están disponibles al público gratuitamente, o pueden ser comprados de forma manufacturada, a solicitud. También puedes comprar componentes con tus tókens y descuentos.
 
-Equipo
 
-ebfefb3dd1c961b.jpeg
 
-¿Qué dicen los expertos sobre nosotros?
 
-b8e97d6b2e8cc37.jpeg
 
-4859c1730dea53f.jpeg
+MODELO DE INGRESOS DEL CENTRO DE PROYECTO
+Reducción de costos a través de: desarrollos tecnológicos de código abierto, ahorros recibidos por las energias renovables, ventas de productos y alimentos saludables producidos localmente y de manera conjunta, intercambio de recursos y la banca por tiempo en la economía circular local y mundial. Además de servicios como alquiler de alojamiento, educación, diseño e impresión 3D local, consultoría e implementación de construcción, etc. Todo esto hace del Centro de Proyecto de ENVIENTA 100% autosustentable, y una inversión inteligente para nuestros seguidores.
 
-¿Qué pretendemos construir?
+SE PARTE DE UNA GRAN AVENTURA
+Te invitamos a pasar una semana de descanso en las Islas Canarias con nosotros, en nuestro centro de innovación autosustentable, a cambio de tus tókens ENVIENTA.
+Precio de alojamiento: 200 ENV = 2 ETH
+Esta es una oferta limitada, podrás usar esos tókens para la semana de descanso despues de la exitosa campaña de ICO.
 
-735409b0159ed60.jpeg
+No solo te inspirará a vivir en una relación simbiótica con tecnologías revolucionarias, también aprenderás mucho sobre formas sustentables de vivir, que benefician a toda la sociedad. También podras ser miembro de una gran comunidad de expertos en diferentes áreas, de todo el mundo. Las tecnologías con las que entrarás en contacto serán tuyas también, ya que podrás acceder a los planos para que puedas desarrollarlos más aun, añadiendole tu toque personal y tus propias ideas. Una vez implementado la estructura de tókens descentralizada despues de la venta inicial, todo el mundo podrá reservar unos días o más, para disfrutar de todo lo que la Gran Canaria y la tecnología tienen que ofrecer.
+FASE 2 - EDUCACIÓN ENVIENTA | 1000 - 2000 ETH
+Si logramos recaudar el capital necesario para la Fase 2, profundizaremos el desarrollo de nuestro programa de entrenamiento, para difundir aun más la filosofía de ENVIENTA y el conocimiento. Algunos de estos cursos y MOOCS son gratuitos y están disponibles en linea gracias al enfoque comunal. Queremos educar en técnicas útiles para abordar temas locales y globales, inspirando y empoderando a los ciudadanos, estudiantes, trabajadores culturales, empresarios, docentes adultos, facilitadores del cambio, gerentes y comunidades que busquen desarrollar prácticas colaborativas y participativas para impulsar el cambio social y aglutinar los recursos. ENVIENTA está llamado a crear un impacto global positivo a través de los millones de personas que se beneficiarán de nuestros programas y actividades.
+PLAN DE INVERSIÓN:
 
-11e0503a034c25b.jpeg
+MODELO DE INVERSIÓN DE SERVICIOS EDUCATIVOS
+En colaboración con las universidades y socios comerciales locales, seguiremos estableciendo una amplia variedad de servicios y actividades educativas. Esto se traduce en más potencial de negocio para los inversionistas. Cursos como:
+Auto-suficiencia
+Programa de Postgrado
+Programas ejecutivos
+Conferencias y cumbres de ENVIENTA
+Programa interino
+Investigación y Desarrollo
+SE PARTE DE UN PROGRAMA EDUCATIVO DE ÚLTIMA GENERACIÓN
+Estamos agregando programas de calidad, dándole más valor al tiempo que inviertas en las instalaciones, a cambio de tus tókens ENVIENTA.
+CURSOS DE AUTO-SUFICIENCIA
+Gestión de energia, producción y almacenamiento
+Permacultura y jardinería doméstica
+Diseño e impresión en 3D
+Tecnología Smart Home
+Robótica
+Tecnologías sensoriales para ambientes interactivos
+Curso de nanotecnología
 
-e2db0d7fbd78cdf.jpeg
+ 
+Precio del servicio de educación: 200 ENV = 2 ETH
+Esta es una oferta limitada, podrás usar esos tókens para los servicios educativos despues de la exitosa campaña de ICO.
+FASE 3 - PLATAFORMA ENVIENTA | 2000 - 3000 ETH
+Lo verdaderamente interesante vendrá en la Fase 3. El objetivo aqui es desarrollar aun más y terminar nuestra plataforma de software. ENVIENTA es la primera plataforma de crowdfunding que busca acelerar el desarrollo colaborativo de productos de código abierto, desde ideas hasta prototipos, ventas/distribución basada en los principios de la economía circular a lo largo de todo el ciclo de vida del producto.
 
-8402418527bfc25.jpeg
+Los desarrollos de hardware de código abierto son el primer objetivo, pero también apoyamos el de software e incluso nuevos modelos econoómicos y sociales (p.e. DAOs). El desarrollo de la plataforma ENVIENTA servirá como una incubadora para las iniciativas, y como un centro adicional para otros projectos de hardware de código abierto. La plataforma proporcionará servicios de colaboración para desarrolladores gratuitamente, así como protección legal para proyectos de código abierto y ayudará a reunir la oferta y demanda.
 
-839bd264322bcee.jpeg
 
-¿Qué podemos hacer por usted?
+MODELO DE INVERSIÓN DE LA PLATAFORMA
+El objetivo principal de la plataforma ENVIENTA es la creación de valor y transferencia de bienes y servicios por medio de la interacción entre fabricantes, productores, patrocinadores, distribuidores y consumidores, salvando una parte de este valor creado. En una interacción dada, el consumidor paga al productor usando una forma de divisa. Ésta puede ser atención, reputación, influencia, o cualquier tipo de divisa no monetaria, aunque también puede ser dinero. 
+¿Cómo salva la plataforma una parte de esta divisa para si misma?
+En el caso de ENVIENTA, la transferencia de dinero ocurre en la plataforma, tomando una pequeña parte en los siguientes casos:
+Campañas de crowdfunding
+Acceso a los productos del mercado por los consumidores
+Productores, consumidores y distribuidores de herramientas y servicios premium
+Empresas para acceder a productores curados de alta calidad
+Fabricantes y distribuidores para obtener licencias
+Campañas publicitarias
+SE PARTE DE LA REVOLUCIÓN DE CÓDIGO ABIERTO
+Si te apasionan los temas ambientales, sociales y económicos, envienta.org es el lugar para lograr cambios significativos, a través de tecnologías de vanguardia. Como poseedor de tókens ENVIENTA, tendrás la oportunidad de invertir en tecnologías y projectos de código abierto grandes y disruptivos que cumplan con los criterios de los Objetivos de Desarrollo Sustentable de la ONU
+FASE 4 - PRODUCCIÓN Y DISTRIBUCIÓN | 3000 - 5000 ETH (LÍMITE MÁXIMO)
+La fase 4 consiste en la implementación de producción y distribución descentralizada. Este es el último paso, donde las ideas que surjan de la plataforma pueden transformarse en productos reales y tangibles, y tendremos que proporcionar análisis financiero, de mercadeo y de fabricación, continuamente, al hardware de código abierto.
+ENVIENTA no tendrá un equipo de desarrollo grande, de ahí que no queramos crear líneas de producción. Más bien, crearemos una especie de sistema de franquicia que permitira a cualquiera convertirse en fabricante de productos ENVIENTA, dándole a todos una capacidad de manufactura escalable infinita. Para participar en ello, el aspirante debe cumplir una serie de condiciones. Éstas incluyen soporte para proyectos de código abierto, así como apoyo para ENVIENTA. De modo que puedas construir un modelo de negocio eficiente en torno al hardware de código abierto.
 
-bfb08d56702065a.jpeg
+El hardware de código abierto es un área relativamente nueva y, debido al libre acceso y a los mercados descentralizados, visualizamos un crecimiento exponencial en ella. Puedes ver las mismas tendencias en el mercado de software de código abierto (Android, Linux, Ethereum, etc.). Exáctamente lo mismo ocurrirá con el hardware. Aunque el código abierto es libre y gratuito, existen muchos servicios de afiliados que generan ganancias.
+Esto es más relevante en el caso del hardware de código abierto, pues estamos hablando de un producto físico. Y en el caso de ENVIENTA, estos servicios (soporte de productos, suministro de activos, venta de sistemas completos, etc.) serán fuente de ingresos y ganancias. ENVIENTA ofrecerá productos y servicios a un nuevo mercado exponencialmente en crecimiento, y la ganancia generada será materializada en el valor de los tókens.
 
-Le invitamos a pasar tiempo en nuestros futuros hogares. Probar la experiencia cómo se siente vivir en el futuro. Pasar unos días en nuestro escaparate centro de innovación auto-sostenible no sólo le inspirará a vivir en un relación simbiótica con tecnologías revolucionarias, pero se puede aprender mucho más sobre el modo de vida sostenible para el beneficio de todo el sociedad. También puede convertirse en un miembro de una increíble comunidad de expertos de diferentes campos de todo el mundo.
-Las tecnologías que usted interactuará se convertirán en las suyas también obtener acceso a los planos para desarrollarlo más con sus ideas.
+PLAN DE INVERSIÓN:
 
-¿Quién más se beneficia de nuestro proyecto? ¡¡¡Todos!!!
+MODELO DE INVERSIÓN DE PRODUCCIÓN Y DISTRIBUCIÓN
+The establishment of production sites mentioned above will be supported by ENVIENTA as an investor. In these makerspaces, ENVIENTA will be a business partner, and this will produce long-term profits. In addition, in both Phase 3 and Phase 4, we have allocated a budget for supporting software and hardware projects and related research. A part of the profit from these investments will be reinvested by our “company” (double quote because of the decentralized structure), and another part of it will be invested in a token repurchase fund. According to our plans, tokens issued during the ICO will be able to be repurchased from our investors at multiple prices.
+SE PARTE DEL NEGOCIO QUE GENERARÁ UN IMPACTO AMBIENTAL POSITIVO Y UN RETORNO DE INVERSIÓN SOCIAL.
+Está claro que desde el principio, ENVIENTA ha puesto su confianza en el modelo de sociedad abierta. Las puertas están abiertas a todos y motivamos la colaboración al explotar el gran potencial de negocios presente en el modelo. Aunque tenemos un plan bien definido y una estrategia que nos permita alcanzar nuestras metas, quisiéramos involucrar a nuestro target de audiencia y, especialmente, a nuestros inversionistas. A éstos últimos los queremos involucrar en nuestras decisiones, en proporción a sus tókens, con el fin de cogestionar ENVIENTA.
+III. DISTRIBUCIÓN DE TÓKENS Y RESUMEN
+Nombre del proyecto: ENVIENTA
+Símbolo del tóken: ENV
+Sitio web: envienta.com
+Libro blanco (whitepaper): http://envienta.com/downloads/envienta_alternative_lifestyle.pdf
+Límite mínimo: 1,000 ETH
+Límite máximo: 5,000 ETH
+(Los contribuyentes del ICO poseeran el 47,4% del total de tókens si se llegara al límite máximo)
 
-72cfc5a918f8572.jpeg
+Capital de mercado máximo en la ICO: 12,000 ETH si se llega al límite máximo
+Tasa de conversión: 1 ETH = 100 ENV
 
-7625f1f8a785a8b.jpeg
+Estructura de bonos:
 
-2b38da82eb2a309.jpeg
+100 ENV (tókens ENVIENTA) equivalen a 1 ETH. Durante la campaña de venta de la ICO, tendremos muy en cuenta a nuestros primeros inversionistas, por lo que hemos definido la siguiente estructura de bonos. La primera meta es lograr una inversión de 1000 ETH (el llamado "límite mínimo"). Con esto podemos ejecutar la primera fase de nuestro proyecto. Es decor, si inviertes en nuestra ICO durante la fase de colecta de los 1000 ETH, por cada tóken que compres, el contrato inteligente te acreditará 1.3 veces más en tu cartera ERC20
 
-¿Cuál es el siguiente?
+Entre 1000 y 2000 ETH, el multiplicador es 1.15, así que por cada ETH invertido, obtendrás 115 ENV.
 
-Ya se han implementado todos los planos, la tierra / los planes, la presupuestación y se han construido las primeras viviendas en Gran Canaria, España. Implementando la estructura de fichas descentralizadas después de esta venta inicial, todos tendrán la oportunidad de reservar unos días o más para disfrutar de lo que Gran Canaria y la tecnología pueden ofrecer.
+Durante la campaña, 100 ENV (tóken ENVIENTA) equivalen a 1 ETH
++ 30% bono para los contribuyentes antes de llegar al límite mínimo (1,000 ETH)
++ 15% bono antes de llegar a 2,000 ETH
 
-0c0d96fbf69f8ec.jpeg
+Plataforma de financiamiento: KICKICO.com  (basada en Ethereum)
+Línea de tiempo: TBD
+Fecha de distribución de tóken: TBD
 
-WHITE PAPER 
+¿Para qué sirven los tokens ENVIENTA (ENV)?
 
-v5.0 (Updated: 2017-09-14) 
+Puedes cambiar tus tókens en casas de cambio de criptomonedas
+Puedes pasar una semana de vacaciones en las Islas Canarias
+Puedes comprar programas educativos de vanguardia
+Puedes pagar servicios en la plataforma ENVIENTA
+Puedes comprar productos en la plataforma ENVIENTA
 
-46df8fbe803ab34.png 
 
-Note: The team is working hard on a new update on a white paper giving you even more details about token contribution, grades, etc. Please come back and check it later.
+IV. PENSAMIENTO FINAL
+La idea básica de ENVIENTA se puede comprar con TESLA: nuestra meta principal es dar con soluciones a los problemas de la humanidad, y al mismo tiempo, hacer un buen negocio, de modo que podamos catalizar los cambios con los recursos así obtenidos. Mientras que los medios dominantes están congestionados de puras demandas de cambios radicales, nosotros nos volcamos a trabajar realmente en ellos.
+Si decides convertirte en un inversionista uniéndote a nuestra distribución de tóken, serás parte de nuestra historia y nos ayudarás a lograr nuestras metas.
+Como puedes ver, tenemos planes definidos para los próximos años, pero no podemos adivinar lo que nos depara el futuro. También estamos buscando los modelos más óptimos para gerenciar nuestra organización. Tal vez ENVIENTA se convierta algún día en una DAO, una sociedad anónima, una organización de equipo o una forma y mezcla de organizaciones no identificada y no estructurada. No lo sabemos aun. De cualquier forma, creemos que nuestro proyecto tiene un gran potencial financiero, y los beneficios económicos, sociales y ambientales no tienen precio...
+
+EL EQUIPO ENVIENTA
+
+LO QUE DICEN LOS EXPERTOS DE NOSOTROS
+
+
+SOCIOS COMERCIALES
 
 Contacto
-
 Asociación ENVIENTA Open Source Ecología
 C/ Lanzarote Duplex Eurovillas No. 15.
 San Fernando De Maspalomas
-35100 | San Bartolome De Tirajana, Spain
-
-Correo electrónico: info@envienta.com
+35100 | San Bartolome De Tirajana, España
+Email: info@envienta.com
 Tel: +34 646 401 417
-
 Síguenos
+WEB | Facebook | Twitter | YouTube | Telegram | Medium | LinkedIn | GitHub | BitcoinTalk
 
-WEB | Facebook | Twitter | YouTube | Telegram | Medium
-
-Si usted lee esta línea que significa que usted es la persona con increíble sofisticación y atención a los detalles por lo que estamos especialmente agradecidos por su tiempo. Esperamos que te involucres en nuestro proyecto.
+Si estás leyendo ésto, significa que eres una persona muy sofisticada y con mucha atención a los detalles, por lo que estamos muy agradecidos contigo por tu tiempo. Esperamos que quieras formar parte de nuestro proyecto. Si tienes alguna inquietud o pregunta, no dudes en contactanos. Estaremos muy encantados de ayudarte.
