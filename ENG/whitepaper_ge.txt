@@ -1,155 +1,154 @@
 ﻿
-ENVIENTA - ALTERNATIVE LIFESTYLE
-
+ENVIENTA - ALTERNATIVER LEBENSSTIL
 White Paper | Version: 6.0
-Date: 21st of October, 2017
-Author: Gabor Kiss
+Datum: 21. Oktober 2017
+Autor: Gabor Kiss
 
-"Ever more grassroots initiatives and nonprofit organizations are addressing today's biggest social problems and environmental issues, but Envienta may have finally connected the dots through their holistic approach in open source development. The founders have recognized the increasing power of collaborating P2P communities and working with them to build a whole new socio-economic model. This project could raise humanity's standard of living by focusing on the combination of food supply, accomodation and digitalized local production."
+"Immer mehr Gruppen der Basisbewegung und Nonprofit Organisationen sprechen die größten sozialen Missstände und Umweltprobleme an, doch Envienta könnte mit seinem ganzheitlichen Ansatz in der Open Source Entwicklung schließlich alle Zusammenhänge herstellen. Die Gründer haben den wachsenden Einfluss von zusammenarbeitenden P2P Communitys erkannt und arbeitem mit ihnen um ein komplett neues sozio-ökonomisches Modell aufzustellen. Dieses Projekt kann den Lebensstandard der Menschheit dadurch verbessern, dass es seinen Fokus auf die Kombination von Lebensmittelversorgung, Unterkünfte und digitale lokale Produktion legt."
 
-P2P Foundation - The Foundation for Peer to Peer Alternatives
+P2P Foundation - The Stiftung für Peer-to-Peer Alternativen
 
 
-"It is a ‘connect the dots’ type initiative which aims to collect various forms of open source technology to make up an entire lifestyle based on low-cost modular solutions and open knowledge. If a mainstream-oriented project like this can help to spread the word about integrating open source design and technology into our daily lives, it could be an important initiative."
+"Es ist eine "Zusammenhänge herstellende" Art Initiative, deren Absicht es ist verschiedene Formen der Open Source Technologie zu sammeln und eine komplette Lebensart, basierend auf günstigen modularen Lösungen und frei zugänglichem Wissen zu erschaffen. Wenn es ein massenorientiertes Projekt wie dieses dabei helfen kann, die Integration von Open Source Design und Technologie in unser tägliches Leben voranzutreiben, dann kann das ein sehr wichtiges Vorhaben sein."
 
 Michel Bauwens
-Peer-to-Peer theorist, writer, researcher and conference speaker on the subject of technology, culture and business innovation
-Director and founder of the P2P Foundation
+Peer-to-Peer Theoretiker, Schriftsteller, Forscher and Sprecher zu den Themen Technologie, Kultur und Business Innovation.
+Vorstand und Gründer der P2P Foundation
 
 
-"Envienta is one of a number of open source ecology "happenings" that I follow, and easily in the top six. I particularly like their respect for the importance of a holistic approach -- I have long been frustrated by the unwillingness of each of the open source stovepipes to cross-fertilize. I also consider their focus on basic income as a complementarity to the larger open source everything ecology an important differentiator."
+"Envienta ist ein einzigartiges Open Source Ökologie "happenings" dem folge und sicherlich in der Top 6. Ich mag im speziellen ihre Anerkennung für die Wichtigkeit eines ganzheitlichen Ansatzes -- Lange war ich frustriert von dem Widerstand aller Open Source Einseiter sich gegenseitig zu unterstützen. Zudem halte ich ihren Fokus auf ein Basiseinkommen für eine Alternative zu den größeren Open Source Ökologie Projekten und für ein wichtiges Unterscheidungsmerkmal."
 
 Robert David Steele Vivas
-CEO of Earth Intelligence Network
-Past US presidential candidate
-Promoter of open source intelligence (OSINT)
+CEO von Earth Intelligence Network
+Früherer US Presidentschaftskandidat
+Befürworter von open source intelligence (OSINT)
 
-
+"Envienta ist auf eine Art führen
 “Envienta is leading the way in the design of a platform cooperativism designed for the open source hardware community as part of its overall strategy to develop an open  source ecosystem for innovation. Envienta is collaborating with the Amsterdam-based WEquest project that is developing a cryptocurrency based system to support a resource based economy that tracks contributions and rewards both local  transactions and the production of goods and services that do the greatest good, and with Stop Reset Go, developing a global framework to synchronize local actions to global impacts by applying planetary boundaries and doughnut economic principles.”
 
 James Gien 
 Warney-Wong
-OSCE Days member of board,
-co-founder at Stop Reset Go,Institute of Future Living,
+OSCE Days Vorstandsmitglied,
+Mitbegründer bei Stop Reset Go,Institute of Future Living,
 Ingienous Designs
 
 
-PART 1
-Introduction
+TEIL 1
+Vorstellung
 
-"The Internet of Things* (IoT) is already boosting productivity to the point where the marginal cost of producing goods and services is nearly zero, making them nearly free. As a result the corporate profits are drying up, the property rights are weakening and an economy based on scarcity is slowly giving way to an economy of abundance."
+"Das Internet der Dinge* (IoT) treibt schon jetzt Produktivität zu einem Punkte voran an dem die Grenzkosten der Produktion von Gütern und Leistungen gegen Null gehen, was sie nahezu umsonst macht. Als Ergebnis davon schhrumpfen Unternehmensprofite, Eigentumsrechte werden geschwächt und eine Wirtschaft der Knappheit weicht langsam einer Wirtschafts des Überflusses."
 
 
 Jeremy Rifkin
-economist, 
-government advisor (USA, China, Germany)
-New York Times bestselling author of the book 
+Ökonom, 
+Regierungsberater (USA, China, Germany)
+New York Times Bestsellerautor des Buchs
 The Zero Marginal Cost Society
 
-* The Internet of Things (IoT) is the network of physical objects or "things" embedded with electronics, software, sensors, and network connectivity, which enables these objects to collect and exchange data. The Internet of Things allows objects to be sensed and controlled remotely across existing network infrastructure, creating opportunities for more direct integration between the physical world and computer-based systems, and resulting in improved efficiency, accuracy and economic benefit. Each thing is uniquely identifiable through its embedded computing system but is able to interoperate within the existing Internet infrastructure. Experts estimate that the IoT will consist of almost 50 billion objects by 2020.
+* Das Internet der Dinge (IoT) ist ein Netzwerk der physischen Objekte oder "Dinge", eingebettet in Elektronik, Software, Sensoren und Netzwerkverbindungen, welches es diesen Objekten erlaubt Daten zu sammeln und auszutauschen. Das Internet der Dinge erlaubt es Objekten ferngesteuert über bestehende Netzwerk Infrastrukturen erkannt und gesteuert zu werden, was Gelegenheiten für eine direkte Integration zwischen der physischen Welt und computerbasierten Systemen schafft, was in gesteigerter Effizient, Genauigkeit und ökonomischen Vorteilen mündet. Jedes Objekt ist einzigartig identifizierbar, durch sein eingebettetes Computersystem, ist jedoch imstande innerhalb der existierenden Internet-Infrastruktur zu agieren. Experten sagen voraus, dass das IoT 2020 aus mehr als 50 Milliarden Objekten bestehen wird.
 
 
-Issues
+Probleme
 
-We confronted with the facts: the end of social safety and infinite growth, huge inequality, collapse of the market economy, political, immigrant crisis and the climate change. We must gradually shift to a harmonic, stable, science-based, inherently sustainable model. 
+Wir sind mit folgenden Problemstellungen konfrontiert: das Ende der sozialen Sicherheit und des unendlichen Wachstums, große Ungerechtigkeit, Zusammenbruch der Marktökonomie, politik, Immigrantenkrisen und dem Klimawandel. Wir müssen schrittweise zu einem harmonischen, stabilen, forschungsbasierten und grundsätzlich nachhaltigen System wechseln. 
  
 
-Ecological thinking
+Ökologisches Denken
 
-While market economy is unsustainable, there is a new way of thinking that has brought together previously distinct fields - chemistry, biology, engineering, architecture, urban planning, IT, social science - and now it's challenging the standard economic theory. It is defining Earth as a complex, symbiotic system. 
-
-
-Harmony
-
-There are three pillars in order of importance: environment, society, economy. Today the economic interests stand in front of everything. In a sustainable world we have to adjust the social conditions to the environment, just like economic policies, which able to serve the needs of the society.
+Während die Marktökonomie nicht aufrecht zu erhalten ist, gibt es neue Denkansätze welche einst verschiedene eigenständige Felder zusammenbringt - Chemie, Biologie, Ingenieurwesen, Architektur, Stadtplanung, IT und Sozialwissenschaften - was nun die bekannte ökonomische Theorie infrage stellt. Sie definieren die Erde als ein komplexes, symbiotisches System.
 
 
-ENVIENTA - How it works?
+Harmonie
 
-ENVIENTA is a fast growing, sustainable, cost-effective, non-profit, decentralized and holistic socioeconomic model. If it's too abstract, we simplified it to understand by anyone. In modern times, basic human necessities - food, water, energy, household objects, furniture and so on, in a reliable form - depend on lot of conditions. ENVIENTA was born as a Do it Yourself, community-based solution package for the 21st century, which provides share of know-how, resources, products, food and water for the members. As an open source model, it offers business plans to anyone for free, as well as full transparency.
-
-
-SMART GARDEN - SMART HOME - RENEWABLES - 3D PRINTING - ROBOTICS  - SENSORS - NANOTECHNOLOGY - CURRENCIES 
-
-What is open source? In an open source model, members give their own resources, creativity and experience to the commons, which is a way of self-expression. No one owns the project or the output, it's free for anyone to use. This kind of social production is based on cooperation and mutual help.
-
-If anyone can participate in development, our community can easily grow, technological breakthrough appears way faster into our daily life, instead of patent-protected R&D environments. We asked ourselves: what if we're calling people with different skills and from different fields of life working together to open source almost everything in a household? To make our model time and cost-effective, we bring domestic developments under one roof. With holistic approach, it's obvious to have few key areas merged into the system. 
+Es gibt drei Stützpfeiler mit Wichtigkeit in folgender Reihenfolge: Umwelt,  Gesellschaft, Ökonomie. Heutzutage stehen die ökonomischen Interessen über allem. In einer aufrechterhaltbaren Welt müssen wir die sozialen Anforderungen in die Umwelt integrieren, genau wie ökonomische Grundsätze, welche es ermöglichen die Bedürfnisse der Gesellschaft zu befriedigen.
 
 
-LIVING SPACE
+ENVIENTA - Wie funktioniert es?
 
-Growing number of people with job and income, can’t afford appropriate housing. In other cases we just looking for new inventions. Either way, ENVIENTA provides cheap and well designed living for individuals, families and communities. Collaborative architects make it simple to customise the blueprints, that we can share for free. We look very excited to the evolution of contour crafting, as the future of home constructing.
-
-
-SMART HOME
-
-We establish common interfaces and APIs in a smart home space that is still fragmented. We need easy to use, web-based, cross-platform interfaces for any device to serve our needs of ease, security and energy efficiency. Our partners are collaborating with ENVIENTA, through open source division of products and services.
+ENVIENTA ist ein schnellwachstendes, aufrechterhaltbares, kosteneffizientes, non-profitäres, dezentralisiertes und ganzheitliches Sozio-ökonomisches Modell. Sollte es zu abstrakt zu abstrakt sein so vereinfachen wir es, damit es für jeden zu verstehen ist. In den modernen Zeiten hängen grundlegende menschliche Bedürfnisse - Nahrung, Wasser, Energie, Haushaltsgegenstände, Möbel und so weiter - von vielen unterschiedlichen Bedingungen ab. ENVIENTA  wurde als Do it Yourself, Community-basiertes Lösungspaket für das 21. Jahrhundert entwickelt, welches das Teilen von Know-How, Ressourcen, Produkten, Nahrung und Wasser unter seinen Mitgliedern ermöglicht, entworfen. Als Open Source Modell bietet es Unternehmens bietet es jedem Businesspläne umsonst an, genau wie komplette Transparenz.
 
 
-RENEWABLES
+SMART GARTEN - SMART ZUHAUSE - ERNEUERBARES - 3D DRUCK - ROBOTIK  - SENSOREN - NANOTECHNOLOGIE - WÄHRUNGEN 
 
-Renewable technologies right now tend to go open source. Good examples of it are the printable wind turbines and few solar flower projects we engage. It may be a good time to go solar or wind to reduce your consumption. One of our partner is supplying the project with a nanotech product called AkkuFresh, that raises the charging ability of the Li-Ion batteries, and maintains an optimal battery life.
+Was ist Open Source? In einem Open Source Modell geben die Mitglieder ihre eigenen Ressourcen, Kreativität und Erfahrungen an die Allgemeintheit weiter, was eine Art des Selbstausdrucks darstellt. Niemand besitzt das Projekt oder sein Ergebnis, jeder darf es umsonst nutzen. Diese Art der sozielen Produktion basiert auf Kooperation und gegenseitiger Hilfe.
 
-
-SMART GARDEN
-
-Today we can spend less on food with homegrown vegetables and the same time we can reduce the amount of soil and water usage. A smart hydro- and aeroponic garden monitors and tracks the environment. A mobile app give your plants a voice, make care recommendations and send you reminders. We designed a 3D printed aeroponic system, just like our partners, they're developing high efficient, intelligent, modular, indoor gardens.
+Wenn jeder an der Entwicklung teilhaben kann, kann unsere Gemeinschaft problemlos wachsen, technologische Durchbrüche setzen sich schneller in unserem Alltag durch, ganz im Gegensatz zu patentgeschützen R&D Umgebungen. Wir haben uns gefragt: Was wenn wir Menschen mit unterschiedlichen Fähigkeit mit unterschiedlichen Lebenssituationen zusammenbringen und Open Source zu jedem Teil eines Haushalts bringen? Um unser Modell zeit- und kosteneffizient zu gestalten, bringen wir domestizierte Entwicklungen unter ein Dach. Mit einem ganzheitlichen Ansatz ist es offensichtlich dass einige Schlüsselgebiete im System verschmelzen. 
 
 
-3D PRINTING
+LEBENSRAUM
 
-New 3D printers are capable of printing in different shapes and sizes and provide a tremendous benefit to interior designers and individuals to furnish their homes. There are millions of free available 3D models on the web and a growing number of printable products. Our goal is to make them available for home owners, help to customize with open source softwares and printers.
-
-
-SENSORS
-
-Huge economic, environmental, health and security benefits are expected from the coming sensor age. Big data, useful insights, as we know. We have cooperation with startups which developing open source health diagnostic devices affordable for everyone. We have connections to universities in Europe involving them into water and air pollution measurements in urban and rural areas, using open source eletronics.
+Eine wachsende zahl von Menschen mit Beruf und Einkommen kann sich keine Unterkunft leisten. In anderen Fällen würden wir nur nach neuen Erfindungen suchen. ENVIENTA bietet günstiges und gut durchdachten Lebensraum für Individuen, Familien und Communities. Zusammenarbeitende Architekten machen es einfach Entwürfe anzupassen, die dann umsonst geteilt werden können. Wir sind gespannt auf die Entwicklung von Umrissplanung als Zukunft des Hausbaus.
 
 
-ROBOTICS
+SMART ZUHAUSE
 
-The project is also focusing on Open Source hardware that may be useful in robotics applications and research. There are three directions of household robotics: entertainment, home appliances and education. The robots will not move around the house tomorrow, but they are getting better and smarter every year. We can start small and build step by step.
-
-
-NANOTECHNOLOGY
-
-One of our business partner plays a very active role in the field of nanotechnology with household applications from clothing, cosmetics to even surface coating. The  open-source paradigm can both accelerate innovation and public investment into the field. In this way, the full potential of nanotechnology will drive the 4th Industrial Revolution, where matter can be manipulated as easily as software today.
+Wir setzen geläufige Benutzeroberflächen und APIs im Smart Home Bereich durch, welcher derzeit noch stark fragmentiert ist. Wir brauchen benutzerfreundliche, webbasierte, cross-plattform Benutzeroberflächen für jedes Gerät, welche unser Bedürfniss für Einfachheit, Sicherheit und Energieeffizienz bedienen. Unsere Partner kooperieren über Open Source Abteilungen von Produkten und Leistungen mit ENVIENTA.
 
 
-CURRENCIES
+ERNEUERBARES
 
-Growing like cells, connected to each other, sharing experiences, new communities can be included in our system, which can provide for energy to each other, can do barters, can try individual systems of financial settlements to balance each other, even in large distances, in different countries. We need a distributed database for financial transactions similar to Bitcoin to enable private blockchains with managed permissions.
-
-
-SOFTWARE DEVELOPMENT
-
-On our new website we’ll share the planning process, with version tracking. Searchable building techniques, collaborating experts, constructors, 3D printer hubs according to your location, all of these, with calculating the cost of your investments will be available on mobile, to propose the lists of available solutions in your region. It can be also a project organizer for groups.
+Erneuerbare Technologien neigen derzeit dazu Open Source zu gehen. Gute Beispiele sind druckbare Windturbinen einige Solarprojekte an denen wir uns beteiligen. Es könnte die richtige Zeit sein um zu Solar- und Windenergie zu wechseln um den eigenen Konsum zu reduzieren. Einer unserer Partner versorgt das Projekt mit einem Nanotechnologieprodukt namens AkkuFresh, welches die Aufladefähigkeit von Li-Ion Batterien erhöht und eine optimale Batterielebensdauer ermöglicht.
 
 
-VALUES
+SMART GARTEN
 
-Will there be an independent self-regulation above states in organized production-based communities? Perhaps, since we're developing liquid democracy softwares for these communities. Some issues can not be solved with autonomous self-interest, but with deep collaboration in networked commons, playing an ever-greater role, complemented by government and market forces.
-
-
-PROJECT CENTER
-
-Gandhi envisioned an ideal economy 70 years ago based on self-sustainable villages producing tools and foods. The real revolution comes when things we produce and the villages connect to the communication, energy and logistics Internet, which makes every village a mini-IoT infrastructure that connect communities across regions. And when that happens, the economic paradigm changes. 
-
-That’s the goal of the ENVIENTA project.
-
-ENVIENTA is a registered non-profit association in Spain on Canary Islands. As we're heading to a new economic paradigm based on abundance, we think that's the right business model or legal form. Our project centers' vision to create commons-based peer­production, distinguish ENVIENTA from regular companies. It requires less finance and more social capital and the principles of commons management.
-
-We are also in cooperation with local governments and residents. We have an agreement with the owners of the land to share resources, like water, food, tools, products and know-how with each other. Just like energy we produce from renewables. The use of our electric car charging station is also free for anyone in the surroundings. It is also a next generation sharing economy model.
+Heutzutage können wir unsere Ausgaben für Lebensmittel mit selbst angebautem Gemüse und gleichzeitig auch den Verbrauch von Land und Wasser senken. Ein smarter hydro- und aeroponischer Garten überwacht und verfolgt die Umwelt mit. Eine Mobil-App gibt unseren Pflanzen eine Stimme, macht Pflegevorschläge und sendet Ihnen Erinnerungen. Wir gestalten ein 3D gedrucktes Aeroponisches System, genau wie unsere Partner, welche hocheffiziente, intelligente, modulare, Indoor-Gärten entwerfen.
 
 
-EDUCATION
+3D DRUCK
 
-The manufactory where we produce almost everything we need is extended with a design studio, a 3D printing hub, a chemical lab and of course an education center with local and online MOOCS trainings. We're planning to operate the projects centers as tech startup incubators for local or global initiatives.
-
-The financing can be done through EU tenders, donations, private investments or crowdfunding campaigns of course. In this case of microinvestments, we can offer one week course to engage in the process of self-sufficient gardening, 3D printing, smart home design and many more.
+Neue 3D Drucker können in unterschiedlichen Formen und Größen drucken, was Innendesigner und Individuen beeindruckende Vorteile bietet um ihr Zuhause einzurichten. Es gibt Millionen frei verfügbare 3D Modelle im Internet und eine wachsende Anzahl an druckbaren Produkten. Unser Ziel ist es, diese für Hausbesitzer verfügbare zu machen und mit Open Source Software und Druckern anzupassen.
 
 
-GUEST ACCOMODATION
+SENSOREN
+
+Riesige ökonomische, umweltliche, gesundheitliche und Sicherheitsvorteile werden vom bevorstehenden Sensorzeitalter erwartet. Big Data, nützliche Einblicke, wie wir sie kennen. Wir haben Kooperationen mit Startups, welche Open Source Gesundheits-Diagnosegeräte erschwinglich für jeden entwickeln. Wir haben Verbindungen zu Universitäten in Europa, welche diese in Wasser- und Luftverschmutzungsmessungen in städtischen und ländlichen Gebieten einbinden, mit der Nutzung von Open Source Geräten.
+
+
+ROBOTIK
+
+Das Projekt fokussiert sich auf auf Open Source Hardware, welche in Robotikanwendungen und -forschung nützlich sein können. Es gibt 3 Arten der Haushaltrobotik: Unterhaltung, Haushaltsgeräte und Bildung. Diese Roboter werden sich noch nicht morgen durch unsere Häuser bewegen, aber sie werden jedes Jahr besser und intelligenter. Wir starten klein und bauen es schrittweise weiter auf.
+
+
+NANOTECHNOLOGIE
+
+Einer unserer Geschäftspartner spielt eine sehr aktive Rolle im Feld der Nanotechnolgie mit Haushaltsgeräten der Bereiche Bekleidung, Kosmetik und Oberflächenbeschichtung. Das Open Source Paradigma kann Innovation beschleunigen und öffentliche Investitionen ins Spiel bringen. Auf diese Art wird das volle Potenzial der Nanotechnologie die 4. industrielle Revolution vorantreiben, in dem Materie genauso einfach manipuliert werden kann wie Software heutzutage. 
+
+
+Währungen
+
+Genau wie wachsende Zellen, die miteinander verbunden sind und erfahrungen teilen, können neue Communities in unser System einbezogen werden, was gegenseitige Energieversorgung, machbare Tauschgeschäfte und mögliche individuelle Systeme für finanziellen Ausgleich untereinander, selbst über große Entfernungen in unterschiedlichen Ländern ermöglicht. Wir benötigen eine verteilte Datenbank für finanzielle Transaktionen ähnlich zur Bitcoin um private Blockchains mit geregelten Zugängen zu ermöglichen.
+
+
+SOFTWARE ENTWICKLUNG
+
+Auf unserer neuen Website teilen wir den Planungsprozess mit Versionstracking. Durchsuchbare Techniken, zusammenarbeitende Experten, Konstrukteure, 3D Drucker Knotenpunkte in deiner Gegend, alles zusammen Verfügbar, inklusive der Kalkulation deiner Investitionskosten  auf einem Mobilgerät um eine Liste möglicher Lösungen in deiner Region vorzuschlagen. Es kann auch als Projektorganisationstool für Gruppen genutzt werden.
+
+
+WERTE
+
+Wird es unabhängige, selbstregulierte, staatsüberschreitende, produktionsbasierte Communites geben? Möglich, da wir eine liquide Demokratiesoftware für diese Communities entwickeln. Einige Probleme können nicht mit autonomen Selbstinteresse gelöst werden, aber mit vertiefter Zusammenarbeit in gemeinsamen Netzwerken, die eine größere Rolle spielen schon, ergänzt durch Regierungs- und Marktkräfte. 
+
+
+PROJEKTZENTRUM
+
+Gandhi hat sich vor 70 Jahren eine ideelle Ökonomie vorgestellt, basierend auf selbstversorgenden Dörfern, die Werkzeuge und Nahrungs selbst herstellen. Die wahre Revolution tritt ein, wenn die Dinge die wir produzieren und die Dörfer in das Kommunikations-, Energie- und Logistik-Internet eingebettet werden, was aus jedem Dorf eine mini-IoT-INfrastruktur macht, welche Communities über ganze Regionen verbindet. Wenn dies geschieht, ändert sich auch die ökonomische Weltanschauung.
+
+Das ist das Ziel des ENVIENTA Projekts.
+
+ENVIENTA ist eine registrierte non-profit Organisation in Spanien auf den Kanarischen Inseln. Da wir uns auf eine neue ökonomische Weltanschauung, geprägt vom Überfluss, zubewegen, glauben wir, dass dies das richtige Geschäftsmodell bzw. die richtige Rechtsform ist. Die Vision unseres Projektzentrums, für eine gemeingütliche Peerproduktion, unterscheidet ENVIENTA von gewöhnlichen Unternehmen. Es benötigt weniger finanzielles und mehr soziales Kapital und die Prinzipien von gemeingütlichem Management. 
+
+Wir kooperieren außerdem mit örtlichen Regierungen und Ortsansässigen. Wir haben eine Vereinbarung mit den Landbesitzern um Ressourcen, wie Wasser, Nahrung, Werkzeuge, Produkte und Know-How miteinander zu teilen. Genau wie erneuerbare Energie, die wir produzieren. Die Nutzung unserer Ladestation für Elektroautos ist ebenso für jeden in der Umgebung umsonst verfügbar. Es ist also ein ökonomisches Next-Generation-Modell des Teilens.
+
+
+BILDUNG
+
+Die Fabrik in der wir alles produzieren was wir benötigen, wird durch ein Designstudio, einen 3D Drucker Hub, ein Chemielabor und natürlich ein Bildungszentrum mit örtlichen und MOOCS Kursen, ergänzt. Wir planen das Projektzentrum als Technologie Startup Gründungszentrum für lokale und globale Initiativen zu führen.
+
+Die Finanzierung kann durch EU Ausschreibungen, Spenden, private Investitionen oder Crowdfunding-Kampagnen erfolgen. In diesem Fall der Microinvestionen können wir einen einwöchtenlichen Kurs anbieten um sich mit selbstversorgender Gartenarbeit, 3D Drucken, Smart HOme Design und vielem mehr auseinanderzusetzen.
+
+
+GÄSTEUNTERKÜNFTE
 
 For investors, collaborating partners and visitors arriving on our courses, the accomodation is granted at our guesthouse section. So it can be an eco holiday for you, for your friends or for your partners.
 
@@ -186,7 +185,7 @@ Ferenc Dr. Kasa
 Tamas Cserhalmi
 Marianna Varbai
 
-ENVIENTA ON LINKEDIN
+ENVIENTA AUF LINKEDIN
 Gabor Kiss https://www.linkedin.com/in/gaborkiss79/
 Gabriel Varaljay https://www.linkedin.com/in/gabrielvaraljay/ 
 Sandor Koszecz https://www.linkedin.com/in/sandor-koszecz-01311580/
