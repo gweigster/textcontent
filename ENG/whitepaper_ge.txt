@@ -9,7 +9,7 @@ Autor: Gabor Kiss
 P2P Foundation - The Stiftung für Peer-to-Peer Alternativen
 
 
-"Es ist eine "Zusammenhänge herstellende" Art Initiative, deren Absicht es ist verschiedene Formen der Open Source Technologie zu sammeln und eine komplette Lebensart, basierend auf günstigen modularen Lösungen und frei zugänglichem Wissen zu erschaffen. Wenn es ein massenorientiertes Projekt wie dieses dabei helfen kann, die Integration von Open Source Design und Technologie in unser tägliches Leben voranzutreiben, dann kann das ein sehr wichtiges Vorhaben sein."
+"Es ist eine "Zusammenhänge herstellende" Art Initiative, deren Absicht es ist verschiedene Formen der Open Source Technologie zu sammeln und eine komplette Lebensart, basierend auf günstigen modularen Lösungen und frei zugänglichem Wissen zu erschaffen. Wenn ein massenorientiertes Projekt wie dieses dabei helfen kann, die Integration von Open Source Design und Technologie in unser tägliches Leben voranzutreiben, dann kann das ein sehr wichtiges Vorhaben sein."
 
 Michel Bauwens
 Peer-to-Peer Theoretiker, Schriftsteller, Forscher and Sprecher zu den Themen Technologie, Kultur und Business Innovation.
@@ -23,8 +23,8 @@ CEO von Earth Intelligence Network
 Früherer US Presidentschaftskandidat
 Befürworter von open source intelligence (OSINT)
 
-"Envienta ist auf eine Art führen
-“Envienta is leading the way in the design of a platform cooperativism designed for the open source hardware community as part of its overall strategy to develop an open  source ecosystem for innovation. Envienta is collaborating with the Amsterdam-based WEquest project that is developing a cryptocurrency based system to support a resource based economy that tracks contributions and rewards both local  transactions and the production of goods and services that do the greatest good, and with Stop Reset Go, developing a global framework to synchronize local actions to global impacts by applying planetary boundaries and doughnut economic principles.”
+"Envienta ist auf eine Art führend, das es eine Kooperationsplattform für die Open Source Hardware Community als Teil seiner Komplettstrategie ein Open Source Ökosystem für Innovation zu schaffen, gestaltet. Envienta arbeitet mit dem Amsterdamer WEquest Projekt zusammen, welches ein auf Kryptowährungen basiertes System entwickelt um eine ressourcenbasierte Ökonomie zu unterstützen, die Beiträge nachvollzieht und sowohl lokale Transaktionen, als auch die Produktion von Gütern und Leistungen für das größere Wohl belohnt, mit Stop Reset Go, die einen globalen Rahmen dafür schaffen lokale Handlungen mit globalen Einflüssen zu synchronisieren, unter der Anwendung von planetaren Belastungsgrenzen und den Prinzipen der Donut-Ökonomie."
+
 
 James Gien 
 Warney-Wong
@@ -150,19 +150,18 @@ Die Finanzierung kann durch EU Ausschreibungen, Spenden, private Investitionen o
 
 GÄSTEUNTERKÜNFTE
 
-For investors, collaborating partners and visitors arriving on our courses, the accomodation is granted at our guesthouse section. So it can be an eco holiday for you, for your friends or for your partners.
+Für Investoren, zusammenarbeitenden Partnern und Besuchern die für unsere Kurse kommen, wird eine Unterkunft in unserem Gästehaus-Bereich zur Verfügung gestellt. So kann es zu einem Ökourlaub für Sie, ihre Freunde oder Partner werden. 
+
+GROß-SKALIERBARE NACHHALTIGKEIT
+
+Als wir das Open Source Projekt geschaffen haben erschien es offensichtlich, dass wir die selben Lösungen in einem größeren Rahmen anwenden, indem wir einen geeigneten Anteil an Nachhaltigkeit und demokratischer Kontrolle in einem bestimmten Areal berechnen. Projektzentren wie ENVIENTA in einer relativ kurzen Zeit aufzubauen hilft dabei, gut anwendbare Lösungen für Städte zu modellieruen und entwickeln. Zusätzlich zu den vielen Vorteilen, wurde ENVIENTA die Open Source Abteilung des Qetema Smart-City-Projekts. Das Konzept des Internet der Dinge - Effizient und Produktivität zu steigern - macht plötzlich Sinn in einer Stadt, die in Umgebung, Menschen, Regierung und natürlich Leben, smart agiert. Hunderte neue Städte sollen bis 2050 konstruiert werden um etwa 3 Milliarden Menschen der Weltbevölkerung ein Zuhause zu bieten. Indem wir die hohe Qualität eines Lebens basierend auf Nachhaltigkeit präsentieren, können wir ein starkes Beispiel, welches die Nachhaltigkeitsentwicklung zukünftiger Städte beeinflusst, darstellen.
 
 
-LARGE-SCALE SUSTAINIBILITY
+GROß-SKALIERBARE IOT BEREITSTELLUNG
 
-As we created the open source project it seemed obvious to apply the same solutions on a bit larger scale by calculating a suitable population of sustanibility and democratic control in a given area. Building up project centers like ENVIENTA in a relatively short timeframe can help in modelling, developing well usable solutions for cities. In addition to a lot of advantages, ENVIENTA became the open source division of Qetema smart city project. The concept of the Internet of Things - to increase efficiency and productivity - suddenly begin to make sense in a city that is smart in its environment, people, mobility, economy, governance and ultimately living. Hundreds of new cities are expected to be constructed by 2050 to house about three billion of the world's populations. By displaying a high quality of life based on sustainability, we can set a strong example that impacts the sustainable development of future cities.
+Prognosen zeigen, dass von Milliarden Menschen erwartet wird in den nächsten Jahrzenten in Städte zu ziehen. Unter den aktuellen Umständen wäre das ein riesiges Disaster für die Erde. Doch die Existenz kleiner, dezentralisierter Knotenpunkte wie ENVIENTA und kleiner Städte wie Qetema die daraus erwachsen, kann bewiesen werden, dass groß-skalierte Kooperation und harte Arbeit Orte schaffen kann an denen jeder geschätzt und die Umwelt geschützt wird.
 
-
-LARGE-SCALE IOT DEPLOYMENTS
-
-The forecasts shows that billions of people expected to move into cities in the next decades. In the current conditions, it would be a huge disaster to the Earth. But the existence of small, decentralized hubs like ENVIENTA and smart cities like Qetema growing from it, can prove that large scale cooperation and hard work can create places where everyone is valued and the environment is protected.
-
-THE ENVIENTA TEAM
+DAS ENVIENTA TEAM
 Gabor Kiss
 Gabriel Varaljay
 Peter Habo
@@ -194,324 +193,324 @@ Mate Molnar https://www.linkedin.com/in/matemolnar88/
 
 
 PART 2
-Get involved
+Nimm Teil
 
 
-In this chapter we examine the widespread opportunities for individuals, communities, educational institutions, local governments, cooperating business partners and investors to participate in the project.
+In diesem Kapitel untersuchen wir die umfassenden Möglichkeiten, für Individuen, Communities, Bildungseinrichtungen, Regionalregierungen, kooperierenden Geschäftspartnern und Investoren um am Projekt teilzunehmen. 
 
 
-INVOLVING PEOPLE
+MENSCHEN EINBEZIEHEN
 
-ENVIENTA Project Centers are vibrant places, through case studies, you can see how progressive projects successfully integrated into traditional local communities. We offer a rich environment for learning about the mainstreaming of sustainability and progressing a commons approach. Of course a self-sustainable project center also has its challenges, and contributing to its ever-developing life will provide another opportunity for learning unexpected things by doing. The blending of people with different skills and backgrounds, from within the peer-to-peer, commons and sustainability movements and the community of practitioners offers unprecedented opportunities for learning and the emergence of novel synergies. Sharing our practices, knowledge and experiences within the setting of the emerging ecosystem of innovation that is the ENVIENTA will offer many great benefits for individuals, communities and beyond.
+ENVIENTA Projektzentren sind lebhafte Orte, durch Fallstudien können Sie erkennen wie fortschrittliche Projekte erfolgreich in unsere traditionellen örtlichen Communities integriert werden. Wie bieten eine reichhaltige Lernatmosphäre dafür, wie Nachhaltigkeit in den Mainstream gebracht werden und ein massentauglicher Ansatz vorangetrieben werden kann. Natürlich hat ein selbstversorgendes Projektzentrum seine Herausforderungen und zu seinem ständig weiterentwickelnden Leben beizutragen bietet eine weitere Gelegenheit, neue unerwartete Dinge durch Aktion zu lernen. Der Zusammenschluss von Menschen mit verschiedenen Fähigkeiten und Hintergründen innerhalb von Peer-to-Peer-, Massen- und Nachhaltigkeitsbewegen und die Community von Praktikern bietet unerwartete Gelegenheitungen zum Lernen und um neuartige Synergien aufkommen zu lassen. Das Teilen unserer Methoden, unseres Wissens und unserer Erfahrungen im Umfeld eines aufkommenden Ökosystems der Innovation ist der Grundstein, wie ENVIENTA viele großartige Vorteile für Individuen, Communities und mehr bietet. 
 
-Commons Management Program
+Gesellschafts-Management-Programm
 
-Located in the ENVIENTA Project Centers, we practice engaging with others to create impact that lasts longer and is more sustainable than anything we can accomplish on our own. Together we maintain and govern the infrastructures that benefit the public as a whole and beyond. Many roads lead to the commons: the collaborative economy, open culture, technology and knowledge sharing, shared meaning-making, protecting biodiversity, seed saving, our natural resources, and more.
+Ansässig in den ENVIENTA Projektzentren, üben wir auf Andere zuzugehen um einen Einfluss zu schaffen, der länger hält und aufrechterhaltbarer ist als alles was wir alleine erreichen können. Zusammen erhalten und steuern wir eine Infrastruktur, die Vorteile für die Öffentlichkeit als Ganzes, und darüber hinaus, bietet. Viele Wege führen zur Gemeinschaftlichkeit: Eine gemeinschaftliche Ökonomie, offene Kultur, Technologie- und Wissensteilung, gemeinsames Schaffen von Bedeutung, Schutz der Umweltvielfalt, retten von Saatgut, unserer natürliche Ressourcen und mehr. 
 
-The core of our inquiry centres on the following questions:
-• What becomes possible when we harness our collective capacity in service of the commons?
-• How can the commons, peer-to-peer and participatory approaches support the transition to a more sustainable way of life?
-• Can we create livelihoods through co-operatives that enrich and sustain the commons?
-• How can a commons-based collaborative economy strengthen the resilience of our communities?
-What should you expect?
+Den Kern unserer Untersuchungszentren bilden folgende Fragen:
+• Was können wir erreichen wenn wir unsere gemeinsamen Kapazitäten bündeln und in den Dienst der Allgemeinheit stellen?
+• Wie können die Allgemeinheit, Peer-To-Peer und Mitmach-Ansätze den Weg in ein nachhaltigeres Leben unterstützen?
+• Können wir Lebensgrundlagen erschaffen, indem wir Kooperationen schaffen, die die Allgemeinheit bereichern und aufrechterhalten?
+• Wie kann eine allgemeinheitsbasierte, zusammenarbeitende Ökonomie die Stabilität unserer Gesellschaft fördern?
+Was können Sie erwarten?
 
-The course will be grounded in the actual practice of collaboration and finding synergies. Some theoretical input, will also be offered – mostly in short modules. The overall aim is to balance and integrate concrete learning outcomes for all. Explorations are likely to cover topics such as new forms of cooperative enterprise, P2P money, crowdfunding, open value accounting, P2P legal developments, etc. You will also learn how to better design conversations that invite full participation and engagement.
+Der Kurs fundiert in der tatsächlichen Anwendung von Zusammenarbeit und der Suche von Synergien. Etwas theoretischer Input wird ebenfalls angeboten - primär in kurzen Modulen. Das Gesamtziel ist es konkrete Lernerfolge für alle zu schaffen und integrieren. Untersuchungen neigen dazu Themen wie neue Formen der kooperativen Unternehmen, P2P Währungen, Crowdfunding, offene Wertrechnung, P2P Gesetzesentwicklungen, etc, zu behandeln. Sie lernen zudem, wie Konversationen besser gestalten, die zu Teilnahme und Engagement einladen. 
 
-Who is this for?
+Für wen ist das?
 
-If you are a citizen, student, entrepreneur, cultural worker, adult educator, facilitator of change, coach or working with your local community and wanting to develop collaborative and participatory practices to empower social change and steward resources, then the ENVIENTA course is for you. No matter your level of experience, or area of interest and activity, you are sure to take home many new insights and practices for your own commons project whatever it is about. Not to mention new friends and transformative experiences. You will be able to see many commons initiatives and key sustainable community systems in working practice and hear the stories of people seeking to play their part in the transition to a low carbon society.
+Wenn Sie ein Bürger, Student, Unternehmer, Kulturschaffender, Lehrender für Erwachsende, Unterstützer von Wandel oder Coach sind oder mit ihrer örtlichen Kommune zusammenarbeiten und gemeinschaftliche und zur Teilnahme einladende Praktiken entwickeln wollen um sozialen Wandel und Ressourcenverwaltung zu stärken, dann ist der ENVIENTA Krus für Sie gedacht. Egal wie erfahren Sie sind oder was Ihre Interessen und Aktivitäten umfasst, Sie werden viele neue Einblicke und Praktiken für ihr eigenes Projekt mit nach Hause nehmen. Nicht zu vergessen, neue Freunde und verändernde Erfahrungen. Sie werden viele Allgemeinheitsinitiativen und Nachhaltigkeitssysteme im laufenden Betrieb erleben und die Geschichten von Leuten hören, die ihren Anteil im Wandel zu einer kohlenstoffreduzierten Gesellschaft haben wollen. 
 
-Self Sufficiency Courses
+Selbstversorgungskurse
 
-Energy management, production & storage
-Learn to become energy self sufficient and to understand different methods of generating, storing and using electricity, from hydro and solar to wind generators.
+Energiemanagement, Produktion & Lagerung
+Lernen Sie sich selbst zu versorgen und unterschiedliche Methoden zur Generation, Lagerung und Nutzung von Energie zu verstehen, von Wasser und Solar, bis zu Windgeneratoren.
 
-• Save money through making homes more efficient and renewable energy
-• Learn about energy management
-• Learn about energy generation, storage and management
-• Become aware of domestic energy usage
+• Sparen Sie Geld indem Sie ihr Zuhause effizienter machen und erneuerbare Energie nuten
+• Lernen Sie über Energiemanagement
+• Lernen Sie über Energieerzeugung, -lagerung und -management
+• Werden Sie sich ihres heimischen Energieverbrauchs bewusst
 
-Permaculture & home gardening
+Permakultur & heimische Gartenarbeit
 
-Permaculture is a growing way of life for many people - it incorporates sustainable living methods - both social and practical. It has a common sense approach to how we design our properties (large or small) to make them functional for us and to have a low impact on the environment at the same time.
-• Become more self sufficient and environmentally friendly
-• Spend less - supplement your needs with production from even a small home garden; or
-• Become a Permaculture Designer / Consultant
+Permakultur wird zunehmend zum Lebensstil für viele Leute - es beinhaltet eine nachhaltige Lebensart - sowohl sozial als auch praktisch. Es ist ein allgemeinheitlicher Ansatz wie wir unsere Grundstücke gestalten (groß oder klein) um sie funktionell für uns zu machen während sie gleichzeitig einen geringen Einfluss auf die Umwelt haben.
+• Werden sie eigenständiger und umweltfreundlicher
+• Weniger ausgeben - erfüllen Sie Ihre Bedürfnisse mit der Eigenproduktion, selbst aus einem kleinen Hausgarten; oder
+• Werden Sie ein Permakultur Designer / Berater
 
-This is a good starting point for those who have little experience in aero- or hydroponics; whose main interest is in growing at home. You will learn the theory behind aero- and hydroponic culture, as well as receive first hand practical experience as you set up your own basic aero- and hydroponic system. This unique course covers the essentials of aero- and hydroponics. Gain skills and understanding in:
+Dies ist ein guter Startpunkt für jene, die nur wenig Erfahrung in Aero- oder Hydroponik haben; deren Hauptinteresse es ist Zuhause anzubauen. Sie lernen die Theorie hinter aero- und hydroponischen Kulturen und erhalten auch praktische Erfahrung aus erster Hand, da Sie ihr eigenes aero- und hydroponisches Grundsystem aufsetzen. Dieser einzigartige Kurs deckt die Grundlagen der Aero- und Hydroponik ab. Erlangen Sie Fähigkeiten und Einsichten in: 
 
-• Nutrient solutions, plant nutriion
-• Aeroponic & Hydroponic systems, greenhouses
-• Nutrient films and soil media
-• Plant culture and more.
+• Ernährungslösungen, Pflanzen Nährwerte
+• Aeroponische & hydroponische Systeme, Gewächshäuser
+• Nährstoffschichten und and Anbauflächen
+• Pflanzenkulturen und mehr.
 
-3D modeling & printing
+3D Modellierung & Druck
 
-The course will uncover the core processes behind 3D printing and reveal one of the most powerful capabilities of the 3D printing revolution - that it’s accessible to anyone. It will help you turn your idea into reality.
-• Brief introduction to the history and applications of 3D printing, overview of how 3D printing works, review of design file types and formats
+Dieser Kurs deckt die Kernprozesse hinter 3D Druck auf und offenbart eine der mächtigsten Möglichkeiten der 3D Druck Revolution - das sie für jeden zugänglich ist. Sie hilft Ihnen, ihre Ideen umzusetzen. 
+• Kurze Einführung in die Geschichte und Anwendungen des 3D Drucks, Übersicht wie 3D Druck funktioniert, Brief introduction to the history and applications of 3D printing, overview of how 3D printing works, Betrachtung von Design-Dateitypen und -formaten.
 
-• Draw or sketch your design by creating an outline, extrude a 3D model from a 2D file, prepare your model using basic 3D modeling tools
-• Basics of controlling and modifying 3D objects, rotate 3D models in your workplane
-• Import your 3D model as an STL file, scale and adjust your design
-• Combine two shapes to create an articulated/interlocking design
-• Prepare a 3D design file for print
-• How to use the equipment properly and safely?
-• Reviewing the rules and guidelines to using the 3D printer
+• Zeichnen sie Ihr Design indem sie Umrisse erstellen, ein 3D Model aus einer 2D Datei ableiten, und bereiten Sie ihr Modell mit unterschiedlichen 3D Modellierungstools vor.
+• Grundlagen der Kontrolle und Modifizierung von 3D Objekten, Rotieren von 3D Modellen auf ihrer Arbeitsfläche
+• Importieren Sie ihr 3D Modell als STL-Datei, skalieren und passen Sie Ihr Design an
+• Kombinieren Sie 2 Formen um ein gegliedertes/ineinandergreifendes Design zu erschaffen
+• Bereiten Sie Ihr 3D Design auf den Druck vor
+• Wie nutzt man das Equipment richtig und sicher?
+• Überblick über Regeln und Richtlinien zur Nutzung des 3D Druckers
 
-Home automation courses
+Heim-Automatisierungs-Kurse
 
-Smart Home Technology: this course offers an excellent introduction to components and to building a smart home system from the ground up. If you want to be an electronics hacker, building your own control systems and components rather than just installing them, you will find this course useful.
+Smart Home Technologie: Dieser Kurs bietet eine exzellente EInführung in die Komponenten und den Aufbau eines Smart-Home-Systems von Grund auf. Wollen Sie ein Elektronik-Hacker werden und ihr eigenes Kontrollsystem und Komponenten bauen anstatt Sie nur zu installieren, dann wird dieser Kurs äußerst nützlich für Sie sein. 
 
-• Controlling automated devices in a home via internet
-• Interface options and software application to monitor the devices remotely from any computer that has an internet connection, or from any Smartphone/PDA.   
-• Hardware options for smart home technology applications
+• Kontrolle automatisierter Geräte über das Internet
+• Oberflächenoprtionen und Softwareanwendungen um die Geräte von jedem Computer mit Internetverbindung oder über Smartphones/PDAs aus der Ferne zu überwachen.   
+• Hardwareoptionen für Smart-Home-Technologieanwendungen
 
-Robotics: the purpose of this course is to introduce you to basics of modeling, design, planning, and control of robot systems. In essence, the material treated in this course is a brief survey of relevant results from geometry, kinematics, statics, dynamics, and control.
-• Foundations in kinematics, dynamics, control
-• Motion planning, trajectory generation, programming and design.
+Robotik: der Zweck dieses Kurses liegt darin, Sie in die Grundlagen von Modellierung, Design, Planung und Kontrolle von Robotersystemen einzuführen.Zusammengefasst behandelt dieser Kurs eine kurze Begutachtung relevanter Ergebnisse aus Geometrie, Kinematik, Statistik, Dynamik und Kontrolle.
+• Grundlagen von Kinematik, Dynamik und Kontrolle 
+• Bewegungsplanung, Flugbahn-Generierung, Programmierung und Design
 
-Sensor technologies for interactive environments: This course is a broad introduction to a host of sensor technologies, illustrated by applications drawn from human-computer interfaces and ubiquitous computing. After extensively reviewing electronics for sensor signal conditioning, the lectures cover the principles and operation of a variety of sensor architectures and modalities.
-• Pressure, strain, displacement, proximity, thermal, electric and magnetic field
-• Optical, acoustic, RF, inertial, and bioelectric
-• Simple sensor processing algorithms and wired and wireless network
+Sensorplanung für interaktive Umgebungen: Dieser kurs ist eine grobe Einführung dazu Ihre eigenen Sensortechnologien zu unterhalten, veranschaulicht mit Mensch-Computer Oberflächen und omnipräsenter Computerberechnung. Nach ausführlicher Übersicht von Elektronik für Sensorsignal-Aufbereitung, behandelt dieser Kurs die Prinzipien und Durchführung verschiedener Sensorarchitekturen und -modalitäten. 
+• Druck, Belastung, Verschiebung, Näherung, Thermik, Elektronik und Magnetfelder
+• Optik, Akustik, RF, Trägheit und Bioelektronik
+• Einfache Sensor-Durchführungsalgorithmen und verdrahtete und drahtlose Netzwerke
 
-Nanotechnology course
+Nanotechnologie Kurs
 
-The course provides a background of the understanding, motivation, implementation, impact, future, and implications of nanotechnology. We will also discuss specific applications of nanotechnology in electronic devices, biomedical fields, environmental solutions, and energy production.
+Dieser Kurs bietet einen Hintergrund zu Verständnis, Motivation, Umsetzung, Beeinflussung, Zukunft und Auswirkung von Nanotechnolgie. Wir diskutieren außerdem spezifische Anwendungen der Nanotechnologie auf elektronischen Geräten, in Biomedizinischen Bereichen, Umweltlösungen und Energieproduktion.
 
-• Introducing nanotechnology
-• The size and shape dependent properties at the nanometer scale
-• Enhanced physical properties of nanomaterials
-• Nanoparticles & how to synthesize them
-• Applications of nanotechnology in engineering, biomedical, energy, and environmental fields
+• Einführung in Nanotechnologie
+• Die größen- und formabhängigen Objekte der Nanometerskalen
+• Erweiterte physische Objekte von Nanomaterialien
+• Nanopartikel & wie diese aufgebaut werden
+• Anwendungen der Nanotechnologie in Ingenieurswesen, Biomedizin, Energie und Umweltbereichen
 
 
-INVOLVING UNIVERSITIES
+EINBINDUNG VON UNIVERSITÄTEN
 
-“At its most general level, what distinguishes holistic education from other forms of education are its goals, its attention to experiential learning, and the significance that it places on relationships and primary human values within the learning environment.”
+"Auf seiner allgemeinsten Stufe, unterscheidet sich die ganzheitliche Bildung von anderen Formen der Bildung in ihren Zielen, ihrer Aufmerksamkeit für Anwendungsbezogenes Lernen und der Signifikanz die es Beziehungen und grundlegendes menschlichen Werten in einer Lernumgebung zuschreibt."
 
 Dr. Robin Ann Martin
-Assistant Professor
+Assistenzprofessor
 Graduate School of Education 
 Bilkent University
 
 
-Our Goals
+Unsere Ziele
 
-Holistic education is a philosophy of education based on the premise that each person finds identity, meaning, and purpose in life through connections to the community, to the natural world, and to humanitarian values such as compassion and peace. Located in local universities, our mission is to educate, inspire and empower individuals, communities, entrepreneurs and business leaders to apply useful technics to address local and global challenges. ENVIENTA is committed to creating positive global impact through the millions of people who benefit from our programs and activities.
+Ganzheitliche Bildung ist eine Philosophie der Bildung, basiernd auf der Prämisse, dass jede Person ihre Identität, Bedeutung und ihren Zweck im Leben durch Verbindungen zur Gesellschaft, der natürlichen Welt und menschlichen Werten wie Mitgefühl und Frieden findet. Angesiedelt in örtlichen Universitäten, ist es unser Ziel Individuen, Communitys, Unternehmer und Geschäftsführer zu bilden, inspirieren und darin zu bekräften nützliche Techniken für regionalen und globalen Wandel anzuwenden. ENVIENTA engagiert sich dafür positiven globalen Einfluss über Millionen Menschen, die von unserem Programmen und Aktivitäten profitieren, zu bewirken.
 
-Graduate Studies Program
+Absolventenkurse
 
-The program convenes community leaders, entrepreneurs, and technologists from around the world in a 3 months collaborative experience to develop team-based technology solutions to widespread global challenges. During the program, ENVIENTA challenges participants to design sustainable global solutions in team projects, leveraging exponential trends, innovation and the power of entrepreneurship.
+Dieses Programm versammelt Community-Leiter, Unternehmer und Techniker aus der ganzen Welt für eine 3 monatige gemeinschaftliche Erfahrung um teambasierte Technologielösungen für verbreitete globale Herausforderungen zu finden. Während dieses Programms fordert ENVIENTA die Teilnehmer dazu auf, nachhaltige globale Lösungen in Teamprojekten, aushebelnde exponentielle Entwicklungen, Innovationen und die Macht des Unternehmertums zu gestalten.
 
-Executive Programs
+Führungskraftprogramm
 
-These are week-long intensive and interactive programs for business, non-profit and government organizations' leaders including executives, entrepreneurs, academics, government leaders and influencers interested in learning about the technologies and tools needed to understand and respond to the current wave of accelerating change.
+Diese wochenlangen intensiven und interaktiven Programme für die Leiter von Unternehmen, Non-Profit- und Regierungsorganisationen beinhaltet es, Führungskräfte, Akademiker, Regierungschefs und Influencer, die daran interessiert sind über Technologie und Werkzeuge zu lernen, die benötigt werden um auf die aktuelle Welle von fortschreitendem Wandel einzugehen, zu schulen.
 
-Conferences and ENVIENTA Summits
+Konferenzen und ENVIENTA Gipfel
 
-ENVIENTA offers a series of specialized programs, conferences and summits focused on the use of exponential technologies to address global grand challenges and to secure an abundance of food, water, energy, security, global health, security, education, environment.
-ENVIENTA concentrates on the following tracks of study:
+ENVIENTA bietet eine Reihe von spezialisierten Programmen, Konferenzen und Gipfeln, die sich auf exponentielle Technologien zu globalen Großherausforderungen und der Sicherung des Überflusses an Nahrung, Wasser, Energie, globaler Gesundheit, Sicherheit, Bildung und Umwelt, fokussieren.
+ENVIENTA konzentriert sich auf die folgenden Forschungsfelder:
 
-• Energy and environmental systems
-• Permaculture and alternative gardening
-• 3D modeling & printing
-• Home automation, robotics and sensors
-• Nanotechnology and digital fabrication
+• Energie- und Umweltsysteme
+• Permakultur und alternativer Gartenbau
+• 3D Modellierung & Druck
+• Home Automatisierung, Robotik und Sensoren
+• Nanotechnologie und digitale Herstellung
 
-It is complemented by cutting-edge practitioners and thinkers, experts in their respective fields who serve as guest lecturers, mentors and advisors. The faculty includes scientists, engineers, entrepreneurs, and researchers from European and US major educational institutions, and experts and executives from different fields.
+All das wird von Spitzenpraktikern und -denkern, Experten in ihrem Feld die als Gastdozenten dienen, Mentoren und Beratern, ergänzt. It is complemented by cutting-edge practitioners and thinkers, experts in their respective fields who serve as guest lecturers, mentors and advisors. Die Fakultät beinhaltet Forscher, Ingenieure, Unternehmer und Forscher von europäischen und US Bildungsinstitutionen und Experten und Geschäftsführer aus unterschiedlichen Feldern.
 
-Internship Program
+Praktikantenprogramm
 
-ENVIENTA offer a crucial pathway to future employment and experience for the next generation of community leaders and innovators. Through this program, we're collaborating with certain schools to give students more opportunities and to develop their skills. Students spend a minimum of eight weeks at our organization.
+ENVIENTA bietet einen ausschlaggebenden Pfad für zukünftige Anstellungen und Erfahrungen für die nächste Generation an Gemeindevorstehenden und Innovatoren. In diesem Programm kooperieren wir mit bestimmten Schulen um ihren Schülern mehr Gelgenheiten und Entwicklungsmöglichkeiten für ihre Fähigkeiten zu bieten. Schüler verbringen ein Minimum von acht Wochenstunden in unserer Organisation.
 
-Internships offer a range of exposure and skill-building opportunities in areas such as environmental sustainability, commons management, community economic development, 21st century peer-production, communications, fundraising and social media. Students with a holistic mindset, using their creativity to apply alternative solutions gain an insight into research and development and learn about exponential technologies that can accelerate innovation through an open source maker movement.
+Praktika bieten eine Reihe von Einlicken und Fähigkeiten aufbauenden Gelegenheiten in Bereichen wie Umweltverträglichkeit, Allgemeinheitsmanagement, Gesellschaftsökonomik und -entwicklung, unmittelbare Produktion im 21. Jahrhundertm Kommunikation, Spendenerhebung, und sozialen Medien. Schüler mit einem ganzheitlichen Mindset, die ihre Kreativität für die Anwendung alternativer Lösungen aufwenden erhalten Einblicke in Forschung und Entwicklung und lernen über exponentielle Technologien, welche Innovation durch eine Open Source Bewegung beschleunigen können. 
 
-In addition to the internship, students will have the opportunity to connect with other interns in the program and participate in on-going professional development throughout the summer.
+Zusätzlich zum Praktikum, erhalten die Schüler eine Gelegenheit Kontakte zu anderen Praktikanten im Programm zu knüpfen und nehmen an einer durchgehenden professionellen Entwicklung über den Sommer teil.
 
-Research & Development
+Forschung & Entwicklung
 
-The goal is developing and maintaining our open source project designed specifically to support an R&D community. Testing, research and development of alternative or renewable energy inventions, devices, products and concepts for a cleaner and greener environment. ENVIENTA works with academics, researchers, students and communities within and also outside universities. Whether you are an organisation or individual entrepreneur, a world-leading or early-career researcher, or a student entrepreneur with exciting ideas you will find that ENVIENTA has people with the experience, knowledge, networks and expertise to assist.
+Das Ziel ist die Entwicklung und Aufrechterhaltung unseres Open Source Projekts, welches speziell dafür gestaltet wurde eine R&D-Gemeinschaft zu unterstützen. Testen, Untersuchen und Entwickeln alternativer oder erneuerbarer Energieerfindungen, -geräte, -produkte und -konzepte für eine grünere Umwelt. ENVIENTA arbeitet mit Akademikern, Forschren, Studenten und Gemeinschaften innerhalb und außerhalb von Universitäten zusammen. Egal ob Sie Teil einer Organisation oder ein einzelner Unternehmer, ein führender Forscher oder Karriereeinsteiger oder ein Unternehmer oder Student mit spannenden Ideen sind, Sie werden merken, dass ENVIENTA das Personal mit der Erfahrung, dem Wissen, dem Netzwerk und der Expertise hat um Sie zu unterstützen. 
 
-Some examples of the support we can provide includes:
-• Funding opportunities
-• Project management of open source research programmes
-• Business acceleration through ENVIENTA Open Source Everything
-• Student enterprise: access for students to ideas, advice, space, and start-up funding to get your ideas going
-
-
-INVOLVING GOVERNMENTS
-
-The overall objective of the ENVIENTA project is to increase the level of consciousness by creating self-sustainable communities, reinforcing local social activity, shaping a collectively shared vision of the future and implementing joint initiatives on community development.
-Specific objectives
-
-• Promoting community-based approach in sustainable socio-economic development in cooperation with local goverments, authorities and companies
-• Supporting the creation of a locally owned and managed peer-production network connected to the global Internet of Things to share good practices and knowledge with others
-
-Local level activities of ENVIENTA are carried out under the framework of partnership with the stakeholders. It is based on willingness and commitment of the partners - communities, village/city councils, regional authorities, academia, associations of local self-governments, private sector - for cost sharing and joint decision-making. We're supporting governments in solving the most pressing local development problems by implementing micro-projects within major project priority, possibly involving European Union funds or other sources in development:
-
-• Environmental rehabilitation
-  (waste disposal, recycling, reducing the amount of soil and water usage, etc.)
-• Energy (energy saving, energy efficiency, alternative energy sources)
-• Local economic development (cooperative development, small business promotion)
-• Reducing social security benefits and eliminating unemployment with the help of fully self-sufficient dwellings and well-organized production-based cooperatives
-
-Knowledge and experience acquired in course of implementation will be gathered, analysed and disseminated through our knowledge hub in cooperation with academia and association of local self-government bodies. Our investment plans are always adjusting to the local weather and environmental conditions, containing the easiest locally available and possibly recyclable materials, considering with the available expertise and workforce to reduce the expenses. We're using the latest available technology during the constructions and focusing on the combination of accomodation, food supply and local production with a fully digital E-Manufactory. These turnkey solutions provide a tremendous benefit to government decision makers to raise the population's standard of living, reduce costs and implement green investments at the same time. Considering the fact that ENVIENTA is a non-profit organization, It could be the start of a fruitful relationship - a desirable three-sided cooperation between governments, non-profits and local business interests in an emerging hybrid economy.
+Beispiele für die Unterstützung, die wir bieten können sind:
+• Förderung von Gelegenheiten
+• Projektmanagement zu Open Source Programmen
+• Geschäftsbeschleunigung durch ENVIENTA Open Source Everything
+• Studenten-Unternehmertum: Zugang für Studenten auf Ideen, Geräte, Raum und Start-Up-Förderung um ihre Ideen umzusetzen
 
 
-PARTNERS
+EINBINDUNG VON REGIERUNGEN
 
-Right after we published our ideas, the ENVIENTA project immediately grabbed the imagination of people, including companies. Some of them has a clear view about the Third Industrial Revolution, but only few of them know, how to engage to make a reliable profit. We think there is enough room to expand business interests in the new era, especially with an exponential thinking.
+Das übergeordnete Ziel des ENVIENTA Projekts ist es, das Bewusstseinslevel durch die Schaffung selbstversorgender Communities, Stärkung lokaler sozialer Aktivität, Formung einer gemeinsamen Vision der Zukunft und Implementierung gemeinsamer Initiativen für die Gesellschaftsentwicklung zu steigern.
+Spezifische Ziele
 
-Our collaborating partners recognized the increasing power of collaborating P2P communities rely on the Internet of Things in a hybrid economy and soon adapt their business model to these changes. We are continuously looking for new partners, local companies to supply our network and participate in research and development. There are some unique terms of cooperation: ethical and transparent business activity, commitment to local and global sustainability and the intention to create open source division of products and services.
+• Einen Communitybasierten Ansatz in nachhaltiger sozio-ökonomischer Entwicklung in Kooperation mit Kommunalverwaltungen, Behörden und Unternehmen zu bewerben
+• Die Schaffung von regional besessenen und verwalteten Peer-Produktionsnetzwerken, die an das weltweite Internet der Dinge angebunden sind um fortschrittliche Praktiken und Wissen mit anderen zu teilen. 
 
-Collaboration between nonprofits and businesses
+ENVIENTAs Aktivitäten auf der Regionalebene werden im Rahmen einer Partnerschaft mit unseren Anteilhabern durchgeführt. Sie basieren auf der Bereitschaft und der Hingabe der Partner - Communities, Dorf- und Stadtverwaltungen, regionale Behörden, Akademien, Vereinigungen lokaler Selbstverwaltung, privater Sektor - Kosten zu teilen und gemeinsame Entscheidungen zu treffen. Wir unterstützen Regierungen dabei, die dringendsten lokalen Entwicklungsprobleme, durch die Implementierung von Mikro-Projekten innerhalb einer vorrangigen Projektpriorität, zu lösen, möglicherweise mit Förderung durch die EU oder anderen Quellen der Entwicklungsförderung.
 
-The 21st century is an age of accelerated interdependence. Cross-sectorcollaboration between nonprofits, corporations, and governments will intensify a convergence of political, economic, and social pressures is fosteringsuch collaboration. Governments are downsizing and privatizing due to fiscalpressures on budgets and due to a recognition of the limits of the state as adeliverer of social services. There is a growing devolution of functions fromcentral governments to the local level and from the public sector to the privatesector, including both nonprofits and corporations. Social problems  have grown in magnitude and complexity, and nonprofit organizations (NPOs) have proliferated to address these. However, traditional funding sources andinstitutional capacities have not kept pace. The search for new resources and more effective organizational approaches is bringing nonprofits and corporations together. These alliances are also emerging because businesses are increasingly reexamining their traditional philanthropic practices and seek-ing new strategies of engagement with their communities that will have greater corporate relevance and higher social impact.
+• Umwelterholung
+  (Müllentsorgung, Recycling, Reduzierung der Grund- und Wassernutzung, etc.)
+• Energie (Energiesparen, Energieeffizienz, alternative Energiequellen)
+• Lokale Wirtschaftsentwicklung (gemeinschaftliche Entwicklung, Förderung von Kleinunternehmen)
+• Reduzierung sozialer Sicherheitsunterschiede und Bekämpfung von Arbeitslosigkeit mit der Hilfe von selbstversorgenden Behausungen und gut organisierten produktionsbasierten Kooperationen
+
+Wissen und Erfahrung aus dem Implementationsprozess wird durch unseren Wissens-Knotenpunkt gesammelt, analysiert und verbreitet - in Kooperation mit Hochschulen und Vereinigungen lokaler Selbstverwaltung. Unsere Investitionspläne passen sich immer an lokales Wetter und Klimabedingungen an, was auch die am leichtesten zugänglichen und im Besten Fall recyclebaren Materialien und die verfügbare Expertise und Arbeitskraft einbezieht, um Kosten zu senken. Wir nutzen die aktuellsten Technologien für die Konstruktion und fokussieren uns auf die Kombination von Unterkünften, Nahrungsversorung und lokaler Produktion in einer komplett digitalen E-Fabrik. Diese Komplettlösungen bieten einen gewaltigen Vorteil für Regierungs-Entscheider um den Lebensstandard der Bevölkerung zu erhöhen, Kosten zu senken und umweltfreundliche Investitionen, alles gleichzeitig, zu implementieren. Beachtet man den Fakt, dass ENVIENTA eine Non-Profit-Organisation ist, kann dies der Start einer fruchtbaren Beziehung sein - eine wünschenswerte dreiseitige Kooperation zwischen Regierungen, Non-Profit-Organisationen und den lokalen Geschäftsinteressen in einer aufkommenden hybriden Ökonomie. 
 
 
-INVOLVING INVESTORS
+PARTNER
 
-Why invest in environmentally and socially destructive corporate stock when social-investment funds offer a combination of healthy market returns and contribute to nonprofits’ socioeconomic missions? Why not pursue the idea of putting nonprofit endowments and assets into mission-related investments? Like any business, a not-for-profit needs to generate revenue to cover its expenses. It needs to identify a target market and figure out how it will deliver its products and services to that market. Some key differences and considerations exist, however, and you should be aware of them before you invest into this legal structure.
+Gleich nachdem wir unsere Ideen veröffentlicht haben, hat das ENVIENTA Projekt sofort die Vorstellungskraft der Leute gepackt, auch von Unternehmen. Einige davon haben einen klaren Blick auf die dritte industrielle Revolution, aber nur einige wissen wir man diesem so entgegentritt um einen verlässlichen Profit daraus zu ziehen. Wir glauben es gibt genug Raum um unternehmerische Interessen in dieses neue Zeitalter einzubinden, besonders mit exponentiellem Denken.
 
-Invest In The Future
+Unsere mitarbeitenden Partner erkennen die steigende macht von zusammenarbeitenden P2P COmmunites, die sich in einer hybriden Ökonomie auf das Internet der Dinge stützen und passen ihr Geschäftsmodell schnell darauf an. Wir suchen ständig nach neuen Partnern und lokalen Unternehmen für unser Netzwerk, die an Forschung und Entwicklung teilhaben. Es gibt einige einzigartige Bedingungen für die Kooperation: ethische und transparente Geschäftsaktivitäten, Hingabe für die lokale und globale Nachhaltigkeit und die Absicht eine Open Source Abteilung für Produkte und Leistungen zu schaffen.
 
-We at the ENVIENTA Association think that becoming more conscious about the global issues helps to make some changes and we have an ability to work out a new paradigm of living. A different way of growth, if you will. As a core principle, we're looking to the Earth as a complex system of interrelationships that function symbiotically and synergistically to maintain the functioning of the whole.
+Zusammenarbeit zwischen Non-Profits und Unternehmen
 
-Considering this, visionaries, futurists, inventors, engineers, architects, gardeners, IT & social media experts, enthusiastic volunteers and more than two thousand registered members in our online communities are constantly working on an alternative, sustainable socioeconomic model that can positively impact billions of lives on the planet. This revolution, like all the previous revolutions in the past - including the Neolithic, the Industrial, and the Green Revolution - can emerge only as a grassroots initiative, with a prominent role of informing people, dispelling myths, and shaping values.
+Das 21. Jahrhundert ist ein Zeitalter der beschleunigten Unabhängigkeit. Sektorenübergreifende Zusammenarbeit zwischen Non-Profits, Unternehmen und Regierungen intensivieren eine Annäherung von Politik und Ökonomie und der soziale Druck fordert solche Zusammenarbeit.  Regierungen bauen ab und privatisieren aufgrund von finanzwirtschaftlichem Druck auf Budgets und aufgrund der Anerkennung der Limits des Staats als Anbieter für soziale Leistungen. Es gibt eine ansteigende Übergabe von Funktionen zentraler Regierungen an die regionale Ebene und vom öffentlichen in den privaten Sektor, was zugleich Non-Profits und Unternehmen einschließt. Soziale Probleme nehmen an Ausmaß und Komplexität zu und Non-Profit-Organisationen (NPOs) haben es verpasst diese anzusprechen.  Wie auch immer, traditionelle Finanzierungsquellen und institutionelle Kapazitäten konnten nicht Schritt halten. Die Suche nach neuen Ressourcen und effektiveren organisationellen Ansätzen bringt Non-Profits und Unternehmen zusammen. Diese Allianzen werden häufiger, da Unternehmen zunehmend ihre traditionellen Wohltätigkeitspraktiken überdenken und nach neuen Strategien suchen, wie sie mit ihren Communities in Kontakt treten und eine größere Relevanz als Unternehmen und erhöhten sozialen Einfluss erreichen. 
 
-A holistic approach that has driven us to create the ENVIENTA Open Source Everything Project strongly depends on the emerging exponential technologies and the Internet of Things that extends beyond the limited notion of commercial success, or even shared value. They allow us to do more, learn more, and innovate more than ever before. They change our usual ways of thinking, behaving, and relating to one another. With the help of these technologies we can empower and enrich the lives of many people, not just an elite few.
 
-ENVIENTA is a transformative project, committed to create a real sharing ecomony.
+EINBINDUNG VON INVESTOREN
+
+Warum in umwelt- und sozialvernichtende Aktien investieren, wenn soziale Investitionen eine Kombination von guten Kursgewinnen und einer Teilnahme an der sozioökonomischen Mission von Non-Profits gewährleisten?  Warum nicht die Idee verfolgen, dass Non-Profit-Ausstattungen und -Vermögen in missionsbezogene Investitionen eingebettet werden können? Wie jedes Unternehmen muss auch ein Non-Profit Einkommen erwirtschaften um seine Ausgaben zu decken. Es muss einen Zielmarkt identifizieren und herausfinden wie es seine Produkte und Leistungen an diesen Markt bringt. Einige Schlüsselunterschiede und Erwägungen exisiteren, und Sie sollten sich dieser bewusst sein wenn sie in eine solche Rechtsform investieren.
+
+Investition in die Zukunft
+
+Wir in der ENVIENTA Gesellschaft glauben, dass ein zunehmendes Bewusstsein über die globalen Probleme dabei hilft, Änderungen voranzutreiben und dass wir die Fähigkeiten dafür haben ein neues Paradigma des Lebens zu schaffen. Eine andere Art des Wachstums, wenn man es so sehen will. Als Kernprinzip sehen wir die Erde als komplexes System von Beziehungen die symbiotisch und synergetisch arbeiten um die Funktionen des großen Ganzen aufrecht zu erhalten. 
+
+Angesichts dessen, arbeiten Visionäre, Futuristen, Erfinder, Ingenieure, Architekten, Gärtner, IT & Social Media Experten, begeisterte Freiwillige und über 2000 registrierte Mitglieder in unseren Online-Communities konstakt an einem alternativen, nachhaltigen, sozioökonomischen Modell, welches Milliarden Menschen auf diesem Planeten positiv beeinflusst. Diese Revolution, wie alle Revolutionen in der Vergangenheit - inklusive der jungsteinzeitlichen, der industriellen und der grünen Revolution - nur als Basisinitiative, mit der hauptsächlichen Rolle die Menschen zu informieren, Mythen zu vertreiben und Werte zu formen, entstehen kann.
+
+Der ganzheitliche Ansatz, der uns dazu bewegt hat das ENVIENTA Open Source Everything Projekt ins leben zu Rufen hängt stark von aufkommenden exponentiellen Technolgien und dem Internet der Dinge, die weit über die limitierte Vorstellung von gewerblichem Erfolg, oder selbst der von geteilten Werten hinaus reichen. Wir haben die Möglichkeit mehr zu lernen und mehr Innovation zu schaffen denn je. Sie ändern unsere gewohnte Art zu Denken, sich zu Verhalten und wie wir zueinander stehen. Mit der Hilfe dieser Technologien können wir das Leben vieler Menschen bekräftigen und bereichern, nicht nur das einer geringen Elite.
+
+ENVIENTA ist ein transformatives Projekt, verpflichted dazu eine richtige Gemeinschaft des Teilens zu schaffen
 
 
 
 PART 3
-TOKEN RELEASE
-and implementation
+TOKEN VERÖFFENTLICHUNG
+and Umsetzung
 
 
 
-ENVIENTA is a bottom-up initiative that, thanks to the open source approach, could be a source of radical changes. Here we offer a stake by ENVIENTA ICO.
+ENVIENTA ist eine Bottom-Up-Initiative, welche, danke des Open Source Ansatzes, eine Quelle für radikale Änderungen sein kann. Hier bieten wir einen Anteil an der ENVIENTA ICO an. 
 
-The implementation is divided into four phases, depending on how many tokens we will be able to sell and how much capital we can collect.
-
-
-BONUSES / WHITE LIST
+Die Umsetzung ist in vier Phasen unterteilt, Abhängig davon wie viele Token wir verkaufen und wieviel Kapital wir sammeln können.
 
 
-The purpose of the white list is for you to let us know your intention of investing (by subscribing). You will be among the first to be notified about the token sale at the start of the campaign. That way you won't miss any bonuses. Which is why you should subscribe to the white list as soon as possible - by clicking the link:
+BONUS / WHITELIST
+
+
+Der Zweck dieser Whitelist ist, damit Sie uns Ihre Absicht zu investieren mitteilen können (durch abonnieren). Sie werden einer der Ersten sein, die über den Start der Tokensale-Kampagne informiert werden. So verpassen Sie keinen Bonus. Deshalb sollten Sie sich sobald wie möglich für die Whitelist anmelden - durch das Klicken auf diesen Link:
 http://envienta.com/whitelist.php
 
-MILESTONES ON TIMELINE
+MEILENSTEINE IM ZEITVERLAUF
 
 2017
-Opening local makerspaces n Hungary and Spain
-NOW - Launching crowdfunding campaigns and ICO’s
+Eröffnung offener Werkstätte in Ungarn und Spanien
+JETZT - Start von Crowdfunding-Kampagnen und ICO's
 
 2018
 PHASE 1
-Building the first self-sustainable ENVIENTA innovation center and startup incubator for global activities, accomodating supporters
+Bau des ersten selbstversorgenden ENVIENTA Innovationszentrums und Startup und Gründerzentrums für weltweite Aktivitäten, welches Unterstützer beherbergt. 
 
 PHASE 2
-Accomodating and training supporters and volunteers
+Beherbergen und trainieren von Unterstützern und Freiwilligen
 
 PHASE 3
-Launching the ENVIENTA desktop and mobile platform
+Start der ENVIENTA Desktop- und Mobilplattform.
 
 PHASE 4
-Starting the platform based production and distribution through partners, makerspaces and project centers
+Start der plattformbasierten Produktion und Verteilung durch Partner, offene Werkstätte und Projektzentren.
 
 
-Minimal contribution
-There is no minimum token purchase but 0.05 ETH is recommended (The Ethereum network charges a small fee for the transaction, it's called Gas).
+Minimaler Beitrag
+Es gibt keinen Mindestlimit um Token zu kaufen, doch wir empfehlen 0.05 ETH (Da das Ethereum Netzwerk eine kleine Transaktionsgebühr, namens Gas berechnet).
 
 
-ENV TOKEN VALUE AND THE KICK ECONOMY
+ENV TOKEN WERT UND DIE KICK ECONOMY
 
-The official currency of the ENVIENTA project is the ENV token. You can use ENV to pay for services such as accommodation, education or for premium access to our platform. Although services can be purchased using other currencies - such as KickCoin as part of the Kick Economy - with ENV, we guarantee that tokens will be valued above the ICO sales price. So ENV is definitely worth the ENVIENTA services.
+Die offizielle WÄhrung des ENVIENTA Projekts ist das ENV Token. Sie können ENV nutzen um für Leistungen wie Unterkunft, Bildung oder Premiumzugang zu unserer Plattform zu zahlen. Obwohl diese Leistungen auch mit anderen Währungen gekauft werden können - wie KickCoin als Teil der Kick Economy - wie garantieren, dass mit ENV der Wert der TOKEN den ICO Preis übersteigen wird. Somit ist ENV definitiv die ENVIENTA Leistungen wert.
 
-In addition, with ENV, we offer purchase discounts in the ENVIENTA market and provide voting rights on certain issues, because we want to involve investors in our decision-making processes in the future.
+Zudem bieten wir mit ENV Rabatte im ENVIENTA Markt und bieten Abstimmungsrechte zu bestimmten Sachverhalten, denn wir wollen unsere Investoren in unseren Entscheidungsfindungsprozess zukünftig einbinden.
 
-We are creating an EIP-228 compliant liquidity pool to cover at least 10% of our profits (we reinvest the remaining part into the project), so the value of tokens will also rise during the development of the project through the liquidity pool.
+Wir schaffen einen EIP-228 kompatiblen Liquiditätspool um mindestens 10% unserer Profite abzudecken (wir reinvestieren den Rest in das Projekt), weshalb der Wert des Tokens auch während der Entwicklung des Projekts, durch den Liquiditätspool, steigen wird.
 
-It is important to note that there are real products behind the ENV tokens - project centers, makerspaces, online platform, exponential tech hardware innovations, marketplace, services - see details below. We know that open source technologies have a huge potential for business. The biggest reward however, is the environmental, social and economic benefits, as open source hardware, software and models can be freely used by anyone.
+Wir weisen darauf hin, dass ein reales Produkt hinter den ENV Token steht - Projektzentren, offene Werkstätte, Onlineplattforme, exponentielle Hardwaretechnik Innovationen, Marktplätze, Dienstleistungen - die Details finden Sie folgend. Wir wissen, dass Open Source Technolgien ein riesiges Potenzial für Unternehmen haben. Die größte Belohnung sind jedcoh die Umwelt-, sozialen und ökonomischen Vorteile, denn Open Source Hardware, Software und Modelle können frei von jedem genutzt werden. 
 
 
 Phase 1
-ENVIENTA PROJECT CENTER
+ENVIENTA PROJEKTZENTRUM
 1000 ETH (SOFT CAP)
 
-Building the first project center on the Canary Islands, Spain. Our investment plans will always adjust, when required, to the local weather and environmental conditions, using the easiest locally available and possibly recyclable materials, making use of the local expertise and workforce to reduce costs. We're using the latest available technology during the construction and focusing on the combination of accommodation, food supply and local production with a fully digital E-Manufactory. ENVIENTA ultimately provides cheap and well-designed living for individuals, families and communities as an IoT based alternative lifestyle of the near future. 
+Bau des ersten Projektzentrums auf den Kanarischen Inseln, Spanien. Unsere Investitionspläne passen sich immer an lokales Wetter und Klimabedingungen an, was auch die am leichtesten zugänglichen und im Besten Fall recyclebaren Materialien und die verfügbare Expertise und Arbeitskraft einbezieht, um Kosten zu senken. Wir nutzen die aktuellsten Technologien für die Konstruktion und fokussieren uns auf die Kombination von Unterkünften, Nahrungsversorung und lokaler Produktion in einer komplett digitalen E-Fabrik. ENVIENTA bietet letzendlich günstige und gut gestaltetes Leben für Individuen, Familien und Gemeinden, als IoT-basierte Lebensstilalternative in der nahen Zukunft.  
 
-INVESTMENT PLAN
+INVESTITIONSPLAN
 
-All parts of the training center (container houses, furniture, aero- and hydroponic garden, electrical systems, software, etc.) are open source, so the blueprints are available to anyone free of charge or can be purchased in a manufactured form on request. You can also use your tokens with discount when purchasing components.
+Alle Teile des Trainingszentrums (Containerhäuser, Möbel, aero- und hydroponische Gärten, Elektrosysteme, Software, etc.) sind Open Source, also stehen die Entwürfe jedem umsonst zur Verfügung oder können in verarbeiteter Form auf Anfrage gekauft werden. Mit unseren Token erhalten Sie zudem Rabatt wenn Sie Komponenten erstehen.
 
-REVENUE MODEL OF THE PROJECT CENTER
+ERLÖSMODELL DES PROJEKTZENTRUMS
 
-Cost reductions through: open source technological developments, savings received through renewables, sales of locally, jointly produced healthy foods and products, resource sharing and time banking in local and global circular economy. Plus services such as accommodation rental, education, local 3D printing and design, construction consulting and implementation, etc. makes ENVIENTA project center 100% self-sustainable and also a smart investment for our supporters.
+Kostenreduktion durch: Open Source Technolgieentwicklungen, Einsparungen durch Erneuerbares, lokale Verkäufte, gemeinsam produzierte gesunde Nahrung und Produkte, Ressourcenteilung und Time-banking in lokaler und globaler zirkulärer Ökonomie. Außerdem machen Leistungen wie Miete von Unterkünften, Bildung, örtlicher 3D Druck und Gestaltung, Konstruktionsberatung und Umsetzung, etc. Plus services such as accommodation rental, education, local 3D printing and design, construction consulting and implementation, etc. das ENVIENTA Projektzentrum 100% selbstversorgend und eine kluge Investition für unsere Unterstützer.
 
-BE PART OF A BIG ADVENTURE
+SEIEN SIE TEIL DES ABENTEUERS
 
-We are inviting you to spend a one week holiday in the Canary Islands with us, in our showcase self-sustainable innovation center, in exchange for your ENVIENTA tokens.
+Wir laden Sie eine eine Woche Urlaub bei uns auf den Kanarischen Inseln zu verbringen, in unserem selbstversorgenden Vorführ-Innovationszentrum, gegen Ihre ENVIENTA Token.
 
-Price of accommodation: 200 ENV = 2 ETH
-This is a limited offer, the exchange of these holiday related tokens will start after the successful ICO campaign.
+Preis für die Unterkunft: 200 ENV = 2 ETH
+Dies ist ein begrenztes Angebot, der Umtausch dieser urlaubsrelevanten Token wird direkt nach der erfolgreichen ICO Kampagne stattfinden.
 
-This will not only inspire you how to live in a symbiotic relationship with revolutionary technologies, but you can learn much more about sustainable ways of living, which benefit the whole of society. You can also become a member of an incredible community of experts in different fields, from all around the world. The technologies which you will interact with will become yours too, as you will have access to the blueprints. So you can develop them further adding your own ideas. Implementing the decentralized token structure after this initial sale, everybody will have a chance to book a few days, or more, to enjoy what Gran Canaria and the technology has to offer.
+Das wird Sie nicht nur dazu inspirieren in einer symbiotischen Beziehung mit revolutionären Technolgien zu leben, Sie lernen auch viel mehr über nachhaltige Lebensweisen, was der gesamten Gesellschaft zugute kommt. Sie werden außerdem ein Mitglied einer unglaublichen Community von Experten in unterschiedlichen Feldern aus der ganzen Welt. Die Technologien mit denen Sie interagieren werden auch Ihre, da Sie zugriff zu allen Entwürfen erhalten. Somit können Sie ihre eigenen Ideen weiterentwickeln. Mit der Einführung einer dezentralisierten Tokenstruktur nach diesem Sale hat jeder die Chance ein paar Tage, oder mehr, zu buchen und zu genießen was Gran Canaria und die Technologie zu bieten hat.
 
 
 Phase 2
-ENVIENTA EDUCATION
+ENVIENTA BILDUNG
 1000 - 2000 ETH
 
-If we can acquire the capital needed for Phase 2, we will further develop our training program and spread ENVIENTA’s philosophy and know-how much wider. Some of these courses and MOOCS are free of charge and available online thanks to the commons approach. Educating in useful techniques to address local and global challenges, inspiring and empowering citizens, students, cultural workers, entrepreneurs, adult educators, facilitators of change, coaches and communities wanting to develop collaborative and participatory practices to empower social change and steward resources. ENVIENTA is committed to creating positive global impact through the millions of people who will benefit from our ongoing programs and activities.
+Wenn wir das Kapitel für Phase 2 aufbringen können werden wir unser Trainsingsprogramm weiterentwickeln und ENVIENTA's Philosophie und Know-How viel weiter verbreiten. Einige dieser Kurse und MOOCS sind umsonst und online verfügbar, dank des Allgemeinheitsansatzes. Ausbilden in wichtigen Techniken um lokale und globale Herausforderungen anzusprechen, Bürger, Studenten, Kulturschaffende, Unternehmer, Lehrer für Erwachsenenbildung, Unterstützer von Wandel, Coaches und Communities, die gemeinsame und teilnehmende Praktiken um sozialen Wandel und Ressourcenverwaltung vorantreiben wollen, zu inspirieren und zu bestärken. ENVIENTA fühlt sich verpflichtet einen positiven weltweiten Einfluss auf Millionen von Menschen die von unseren fortschreitenden Programmen und Aktivitäten profitieren, zu erschaffen.
 
-INVESTMENT PLAN
+INVESTITIONSPLAN
 
-EDUCATION SERVICES REVENUE MODEL
+BILDUNGSANGEBOT ERLÖSMODELL
 
-In collaboration with local universities and business partners, we will continue to establish a wide variety of education related services and activities. This also means more business potential for investors. Courses such as:
+In Zusammenarbeit mit örtlichen Universitäten und Geschäftsparntern, fahren wir damit fort eine weltweite Vielzahl an Bildungsrelevanten Leistungen und Aktivitäten durchzusetzen. Auch das bedeutet großes unternehmerisches Potenzial für Investoren. Kurse wie:
 
-Self-sufficiency courses
-Graduate studies program
-Executive programs
-Conferences and ENVIENTA summits
-Internship program
-Research & Development
+Selbstversorgungskurse
+Absolventenprogramme
+Führungskraftprogramme
+Konferenzen und ENVIENTA Gipfel
+Praktikanteprogramme
+Forschung & Entwicklung
 
-BE PART OF A CUTTING EDGE EDUCATION PROGRAM
+SEIEN SIE TEIL EINES WEGBEREITENDEN BILDUNGSPROGRAMMS
 
-We are also adding quality programs giving more value to your time spent in the facilities in exchange for your ENVIENTA tokens.
+Wir fügen zudem qualitative Programme an, die ihrer Zeit in unseren Einrichtungen im Austausch für ihre ENVIENTA Token einen Mehrwert bieten. We are also adding quality programs giving more value to your time spent in the facilities in exchange for your ENVIENTA tokens.
 
-BE PART OF A CUTTING EDGE EDUCATION PROGRAM
+SEIEN SIE TEIL EINES WEGBEREITENDEN BILDUNGSPROGRAMMS
 
-We are also adding quality programs giving more value to your time spent in the facilities in exchange for your ENVIENTA tokens.
+Wir fügen zudem qualitative Programme an, die ihrer Zeit in unseren Einrichtungen im Austausch für ihre ENVIENTA Token einen Mehrwert bieten. We are also adding quality programs giving more value to your time spent in the facilities in exchange for your ENVIENTA tokens.
 
-SELF-SUFFICIENCY COURSES
+Selbstversorgungskurse
 
-Energy management, production & storage
-Permaculture & home gardening
-3D modeling & printing
-Smart Home Technology
-Robotics
-Sensor technologies for interactive environments
-Nanotechnology course
+Energiemanagement, -produktion & -speicherung
+Permakultur & Heim Gartenbau
+3D Modellierung & Druck
+Smart Home Technologie
+Robotik
+Sensortechnologien für interaktive Umgebungen
+Nanotechnologie Kurse
 
-Price of education service: 200 ENV = 2 ETH
-This is a limited offer, the exchange of these education related tokens will start after the successful ICO campaign.
+Preis für das Bildungsangebot: 200 ENV = 2 ETH
+Dies ist ein begrenztes Angebot, der Umtausch dieser urlaubsrelevanten Token wird direkt nach der erfolgreichen ICO Kampagne stattfinden.
 
 
 Phase 3
-ENVIENTA PLATFORM
+ENVIENTA PLATTFORM
 2000 - 3000 ETH
 
-The really interesting part will be in Phase 3. The goal here is to develop further and finalize our software platform. ENVIENTA is the first crowdfunding platform that aiming to speed up collaborative open source product development, from ideas to prototypes, sales/distribution based on circular economy principles throughout the product life cycle.
+Der besonders interessante Teil findet in Phase 3 statt. Das Ziel hier ist unsere Softwareplattform weiterzuentwickeln und zu finalisieren. ENVIENTA ist die erste Crowdfunding-Plattform deren Ziel es ist gemeinsame Open Source Produktentwicklung voranzutreiben, von Ideen und Prototypen, Vertrieb/Distribution basierend auf zirkulären ökonomischen Prinzipien, durch den gesamten Produktlebenszyklus hinweg. 
 
-Open source hardware developments are the primary target area, but we also support the development of software and even new social and economic models (e.g. DAOs). Development of the ENVIENTA platform will serve as a kind of startup incubator and as an additional center for other open source hardware projects. The platform will provide collaborative services for developers for free, it will provide legal protection for open source projects and help bring together supply and demand.
+Open Source Hardwareentwicklungen sind die Primärziel, aber wir unterstützen auch die Entwicklung von Software und neuer sozialer und ökonomischer Modelle (e.g. DAOs). Die Entwicklung der ENVIENTA Plattform dient als eine Art Gründerzentrum und als zusätzliches Zentrum für Open Source Hardwareprojekte. Die Plattform bietet gemeinschaftliche Leistungen umsonst für Entwickler an, stellt Rechtsschutz für Open Source Projekte zur Verfügung und bringt Angebot und Nachfrage zusammen.
 
-INVESTMENT PLAN
+INVESTITIONSPLAN
 
 “Envienta is leading the way in the design of a platform cooperativism designed for the open source hardware community as part of its overall strategy to develop an open  source ecosystem for innovation. Envienta is collaborating with the Amsterdam-based WEquest project that is developing a cryptocurrency based system to support a resource based economy that tracks contributions and rewards both local  transactions and the production of goods and services that do the greatest good, and with Stop Reset Go, developing a global framework to synchronize local actions to global impacts by applying planetary boundaries and doughnut economic principles.”
 
